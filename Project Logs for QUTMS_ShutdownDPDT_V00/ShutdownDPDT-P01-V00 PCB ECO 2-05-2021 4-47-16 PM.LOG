@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=K1_DPDT_Relay_11 NewDesignator=K1_DPDT_Relay_12
+Change Component Designator: OldDesignator=K1_DPDT_Relay_12 NewDesignator=K1_DPDT_Relay_14
+Change Component Designator: OldDesignator=K1_DPDT_Relay_13 NewDesignator=K1_DPDT_Relay_16
+Change Component Designator: OldDesignator=K1_DPDT_Relay_14 NewDesignator=K1_DPDT_Relay_18
+Change Component Designator: OldDesignator=K1_DPDT_Relay_31 NewDesignator=K1_DPDT_Relay_11
+Change Component Designator: OldDesignator=K1_DPDT_Relay_32 NewDesignator=K1_DPDT_Relay_13
+Change Component Designator: OldDesignator=K1_DPDT_Relay_33 NewDesignator=K1_DPDT_Relay_15
+Change Component Designator: OldDesignator=K1_DPDT_Relay_34 NewDesignator=K1_DPDT_Relay_17
+Change Net Name : Old Net Name=A_A New Net Name=SEG1OUT_A
+Change Net Name : Old Net Name=A_B New Net Name=SEG1OUT_B
+Change Class Name : Old Net Name=DPDT_Relay_33 New Net Name=DPDT_Relay_15
+Change Class Name : Old Net Name=DPDT_Relay_34 New Net Name=DPDT_Relay_17
+Added Class: Name=DPDT_Relay_16
+Added Class: Name=DPDT_Relay_18
+Change Room Name: Old Name=DPDT_Relay_31 New Name=DPDT_Relay_17
+Change Room Scope: Old Scope=InComponentClass('DPDT_Relay_31') New Scope=InComponentClass('DPDT_Relay_17')
+Change Room Name: Old Name=DPDT_Relay_34 New Name=DPDT_Relay_18
+Change Room Scope: Old Scope=InComponentClass('DPDT_Relay_34') New Scope=InComponentClass('DPDT_Relay_18')
+Added Room: Name=DPDT_Relay_15
+Added Room: Name=DPDT_Relay_16

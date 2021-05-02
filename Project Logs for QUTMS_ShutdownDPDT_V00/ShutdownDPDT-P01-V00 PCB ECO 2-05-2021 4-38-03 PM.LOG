@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=DET_OUT_1_Group11 Pin=K1_DPDT_Relay_11-4
+Removed Pin From Net: NetName=DET_IN_1_Group11 Pin=K1_DPDT_Relay_11-8
+Removed Pin From Net: NetName=DET_OUT_1_Group21 Pin=K1_DPDT_Relay_12-4
+Removed Pin From Net: NetName=DET_IN_1_Group21 Pin=K1_DPDT_Relay_12-8
+Removed Pin From Net: NetName=DET_OUT_1_Group12 Pin=K1_DPDT_Relay_13-4
+Removed Pin From Net: NetName=DET_IN_1_Group12 Pin=K1_DPDT_Relay_13-8
+Removed Pin From Net: NetName=DET_OUT_1_Group22 Pin=K1_DPDT_Relay_14-4
+Removed Pin From Net: NetName=DET_IN_1_Group22 Pin=K1_DPDT_Relay_14-8
+Added Pin To Net: NetName=DET_IN_1_Group11 Pin=J3_Group11-7
+Added Pin To Net: NetName=DET_OUT_1_Group11 Pin=J3_Group11-8
+Added Pin To Net: NetName=DET_IN_1_Group12 Pin=J3_Group12-7
+Added Pin To Net: NetName=DET_OUT_1_Group12 Pin=J3_Group12-8
+Added Pin To Net: NetName=DET_IN_1_Group21 Pin=J3_Group21-7
+Added Pin To Net: NetName=DET_OUT_1_Group21 Pin=J3_Group21-8
+Added Pin To Net: NetName=DET_IN_1_Group22 Pin=J3_Group22-7
+Added Pin To Net: NetName=DET_OUT_1_Group22 Pin=J3_Group22-8
+Added Pin To Net: NetName=DET_IN_1_Group11 Pin=K1_DPDT_Relay_11-4
+Added Pin To Net: NetName=DET_OUT_1_Group11 Pin=K1_DPDT_Relay_11-8
+Added Pin To Net: NetName=DET_IN_1_Group21 Pin=K1_DPDT_Relay_12-4
+Added Pin To Net: NetName=DET_OUT_1_Group21 Pin=K1_DPDT_Relay_12-8
+Added Pin To Net: NetName=DET_IN_1_Group12 Pin=K1_DPDT_Relay_13-4
+Added Pin To Net: NetName=DET_OUT_1_Group12 Pin=K1_DPDT_Relay_13-8
+Added Pin To Net: NetName=DET_IN_1_Group22 Pin=K1_DPDT_Relay_14-4
+Added Pin To Net: NetName=DET_OUT_1_Group22 Pin=K1_DPDT_Relay_14-8
+Change Net Name : Old Net Name=DET_IN_2_Group11 New Net Name=NetK1_DPDT_Relay_21_8
+Change Net Name : Old Net Name=DET_IN_2_Group12 New Net Name=NetK1_DPDT_Relay_23_8
+Change Net Name : Old Net Name=DET_IN_2_Group21 New Net Name=NetK1_DPDT_Relay_22_8
+Change Net Name : Old Net Name=DET_IN_2_Group22 New Net Name=NetK1_DPDT_Relay_24_8
+Change Net Name : Old Net Name=DET_IN_3_Group11 New Net Name=NetK1_DPDT_Relay_31_8
+Change Net Name : Old Net Name=DET_IN_3_Group12 New Net Name=NetK1_DPDT_Relay_33_8
+Change Net Name : Old Net Name=DET_IN_3_Group21 New Net Name=NetK1_DPDT_Relay_32_8
+Change Net Name : Old Net Name=DET_IN_3_Group22 New Net Name=NetK1_DPDT_Relay_34_8
+Change Net Name : Old Net Name=DET_OUT_2_Group11 New Net Name=NetK1_DPDT_Relay_21_4
+Change Net Name : Old Net Name=DET_OUT_2_Group12 New Net Name=NetK1_DPDT_Relay_23_4
+Change Net Name : Old Net Name=DET_OUT_2_Group21 New Net Name=NetK1_DPDT_Relay_22_4
+Change Net Name : Old Net Name=DET_OUT_2_Group22 New Net Name=NetK1_DPDT_Relay_24_4
+Change Net Name : Old Net Name=DET_OUT_3_Group11 New Net Name=NetK1_DPDT_Relay_31_4
+Change Net Name : Old Net Name=DET_OUT_3_Group12 New Net Name=NetK1_DPDT_Relay_33_4
+Change Net Name : Old Net Name=DET_OUT_3_Group21 New Net Name=NetK1_DPDT_Relay_32_4
+Change Net Name : Old Net Name=DET_OUT_3_Group22 New Net Name=NetK1_DPDT_Relay_34_4
+Added Pin To Net: NetName=DET_IN_2_Group11 Pin=J3_Group11-9
+Added Net: Name=DET_IN_2_Group11
+Added Pin To Net: NetName=DET_IN_2_Group12 Pin=J3_Group12-9
+Added Net: Name=DET_IN_2_Group12
+Added Pin To Net: NetName=DET_IN_2_Group21 Pin=J3_Group21-9
+Added Net: Name=DET_IN_2_Group21
+Added Pin To Net: NetName=DET_IN_2_Group22 Pin=J3_Group22-9
+Added Net: Name=DET_IN_2_Group22
+Added Pin To Net: NetName=DET_IN_3_Group11 Pin=J3_Group11-11
+Added Net: Name=DET_IN_3_Group11
+Added Pin To Net: NetName=DET_IN_3_Group12 Pin=J3_Group12-11
+Added Net: Name=DET_IN_3_Group12
+Added Pin To Net: NetName=DET_IN_3_Group21 Pin=J3_Group21-11
+Added Net: Name=DET_IN_3_Group21
+Added Pin To Net: NetName=DET_IN_3_Group22 Pin=J3_Group22-11
+Added Net: Name=DET_IN_3_Group22
+Added Pin To Net: NetName=DET_OUT_2_Group11 Pin=J3_Group11-10
+Added Net: Name=DET_OUT_2_Group11
+Added Pin To Net: NetName=DET_OUT_2_Group12 Pin=J3_Group12-10
+Added Net: Name=DET_OUT_2_Group12
+Added Pin To Net: NetName=DET_OUT_2_Group21 Pin=J3_Group21-10
+Added Net: Name=DET_OUT_2_Group21
+Added Pin To Net: NetName=DET_OUT_2_Group22 Pin=J3_Group22-10
+Added Net: Name=DET_OUT_2_Group22
+Added Pin To Net: NetName=DET_OUT_3_Group11 Pin=J3_Group11-12
+Added Net: Name=DET_OUT_3_Group11
+Added Pin To Net: NetName=DET_OUT_3_Group12 Pin=J3_Group12-12
+Added Net: Name=DET_OUT_3_Group12
+Added Pin To Net: NetName=DET_OUT_3_Group21 Pin=J3_Group21-12
+Added Net: Name=DET_OUT_3_Group21
+Added Pin To Net: NetName=DET_OUT_3_Group22 Pin=J3_Group22-12
+Added Net: Name=DET_OUT_3_Group22

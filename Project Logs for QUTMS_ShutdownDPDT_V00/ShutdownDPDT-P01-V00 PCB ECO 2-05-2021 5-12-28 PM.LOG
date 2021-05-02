@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=J3_A1 NewDesignator=J3A
+Change Component Designator: OldDesignator=J3_A2 NewDesignator=J3C
+Change Component Designator: OldDesignator=J3_B1 NewDesignator=J3B
+Change Component Designator: OldDesignator=J3_B2 NewDesignator=J3D
+Change Component Designator: OldDesignator=J4_A NewDesignator=J4A
+Change Component Designator: OldDesignator=J4_B NewDesignator=J4B
+Change Component Designator: OldDesignator=K1_DPDT_Relay_11 NewDesignator=K1A
+Change Component Designator: OldDesignator=K1_DPDT_Relay_12 NewDesignator=K1B
+Change Component Designator: OldDesignator=K1_DPDT_Relay_13 NewDesignator=K1D
+Change Component Designator: OldDesignator=K1_DPDT_Relay_14 NewDesignator=K1E
+Change Component Designator: OldDesignator=K1_DPDT_Relay_15 NewDesignator=K1G
+Change Component Designator: OldDesignator=K1_DPDT_Relay_16 NewDesignator=K1H
+Change Component Designator: OldDesignator=K1_DPDT_Relay_17 NewDesignator=K1J
+Change Component Designator: OldDesignator=K1_DPDT_Relay_18 NewDesignator=K1K
+Change Component Designator: OldDesignator=K1_DPDT_Relay_21 NewDesignator=K1C
+Change Component Designator: OldDesignator=K1_DPDT_Relay_22 NewDesignator=K1F
+Change Component Designator: OldDesignator=K1_DPDT_Relay_23 NewDesignator=K1I
+Change Component Designator: OldDesignator=K1_DPDT_Relay_24 NewDesignator=K1L
+Change Net Name : Old Net Name=DET_IN_1_A1 New Net Name=DET_IN_1A
+Change Net Name : Old Net Name=DET_IN_1_A2 New Net Name=DET_IN_1C
+Change Net Name : Old Net Name=DET_IN_1_B1 New Net Name=DET_IN_1B
+Change Net Name : Old Net Name=DET_IN_1_B2 New Net Name=DET_IN_1D
+Change Net Name : Old Net Name=DET_IN_2_A1 New Net Name=DET_IN_2A
+Change Net Name : Old Net Name=DET_IN_2_A2 New Net Name=DET_IN_2C
+Change Net Name : Old Net Name=DET_IN_2_B1 New Net Name=DET_IN_2B
+Change Net Name : Old Net Name=DET_IN_2_B2 New Net Name=DET_IN_2D
+Change Net Name : Old Net Name=DET_IN_3_A1 New Net Name=DET_IN_3A
+Change Net Name : Old Net Name=DET_IN_3_A2 New Net Name=DET_IN_3C
+Change Net Name : Old Net Name=DET_IN_3_B1 New Net Name=DET_IN_3B
+Change Net Name : Old Net Name=DET_IN_3_B2 New Net Name=DET_IN_3D
+Change Net Name : Old Net Name=DET_OUT_1_A1 New Net Name=DET_OUT_1A
+Change Net Name : Old Net Name=DET_OUT_1_A2 New Net Name=DET_OUT_1C
+Change Net Name : Old Net Name=DET_OUT_1_B1 New Net Name=DET_OUT_1B
+Change Net Name : Old Net Name=DET_OUT_1_B2 New Net Name=DET_OUT_1D
+Change Net Name : Old Net Name=DET_OUT_2_A1 New Net Name=DET_OUT_2A
+Change Net Name : Old Net Name=DET_OUT_2_A2 New Net Name=DET_OUT_2C
+Change Net Name : Old Net Name=DET_OUT_2_B1 New Net Name=DET_OUT_2B
+Change Net Name : Old Net Name=DET_OUT_2_B2 New Net Name=DET_OUT_2D
+Change Net Name : Old Net Name=DET_OUT_3_A1 New Net Name=DET_OUT_3A
+Change Net Name : Old Net Name=DET_OUT_3_A2 New Net Name=DET_OUT_3C
+Change Net Name : Old Net Name=DET_OUT_3_B1 New Net Name=DET_OUT_3B
+Change Net Name : Old Net Name=DET_OUT_3_B2 New Net Name=DET_OUT_3D
+Change Net Name : Old Net Name=SEG1IN_A New Net Name=SEG1INA
+Change Net Name : Old Net Name=SEG1IN_B New Net Name=SEG1INB
+Change Net Name : Old Net Name=SEG2_IN_A New Net Name=SEG2_INA
+Change Net Name : Old Net Name=SEG2_IN_B New Net Name=SEG2_INB
+Change Net Name : Old Net Name=SEG3_IN_A New Net Name=SEG3_INA
+Change Net Name : Old Net Name=SEG3_IN_B New Net Name=SEG3_INB
+Change Net Name : Old Net Name=SEG4_IN_A New Net Name=SEG4_INA
+Change Net Name : Old Net Name=SEG4_IN_B New Net Name=SEG4_INB
+Change Net Name : Old Net Name=SEG5_IN_A New Net Name=SEG5_INA
+Change Net Name : Old Net Name=SEG5_IN_B New Net Name=SEG5_INB
+Change Net Name : Old Net Name=SEG6_IN_A New Net Name=SEG6_INA
+Change Net Name : Old Net Name=SEG6_IN_B New Net Name=SEG6_INB
+Change Net Name : Old Net Name=SHDN_IN_1_A1 New Net Name=SHDN_IN_1A
+Change Net Name : Old Net Name=SHDN_IN_1_A2 New Net Name=SHDN_IN_1C
+Change Net Name : Old Net Name=SHDN_IN_1_B1 New Net Name=SHDN_IN_1B
+Change Net Name : Old Net Name=SHDN_IN_1_B2 New Net Name=SHDN_IN_1D
+Change Net Name : Old Net Name=SHDN_IN_2_A1 New Net Name=SHDN_IN_2A
+Change Net Name : Old Net Name=SHDN_IN_2_A2 New Net Name=SHDN_IN_2C
+Change Net Name : Old Net Name=SHDN_IN_2_B1 New Net Name=SHDN_IN_2B
+Change Net Name : Old Net Name=SHDN_IN_2_B2 New Net Name=SHDN_IN_2D
+Change Net Name : Old Net Name=SHDN_IN_3_A1 New Net Name=SHDN_IN_3A
+Change Net Name : Old Net Name=SHDN_IN_3_A2 New Net Name=SHDN_IN_3C
+Change Net Name : Old Net Name=SHDN_IN_3_B1 New Net Name=SHDN_IN_3B
+Change Net Name : Old Net Name=SHDN_IN_3_B2 New Net Name=SHDN_IN_3D
+Change Net Name : Old Net Name=SHDN_OUT_1_A1 New Net Name=SHDN_OUT_1A
+Change Net Name : Old Net Name=SHDN_OUT_1_A2 New Net Name=SHDN_OUT_1C
+Change Net Name : Old Net Name=SHDN_OUT_1_B1 New Net Name=SHDN_OUT_1B
+Change Net Name : Old Net Name=SHDN_OUT_1_B2 New Net Name=SHDN_OUT_1D
+Change Net Name : Old Net Name=SHDN_OUT_2_A1 New Net Name=SHDN_OUT_2A
+Change Net Name : Old Net Name=SHDN_OUT_2_A2 New Net Name=SHDN_OUT_2C
+Change Net Name : Old Net Name=SHDN_OUT_2_B1 New Net Name=SHDN_OUT_2B
+Change Net Name : Old Net Name=SHDN_OUT_2_B2 New Net Name=SHDN_OUT_2D
+Change Net Name : Old Net Name=SHDN_OUT_3_A1 New Net Name=SHDN_OUT_3A
+Change Net Name : Old Net Name=SHDN_OUT_3_A2 New Net Name=SHDN_OUT_3C
+Change Net Name : Old Net Name=SHDN_OUT_3_B1 New Net Name=SHDN_OUT_3B
+Change Net Name : Old Net Name=SHDN_OUT_3_B2 New Net Name=SHDN_OUT_3D

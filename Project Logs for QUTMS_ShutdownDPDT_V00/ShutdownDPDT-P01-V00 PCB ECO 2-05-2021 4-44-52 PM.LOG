@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SEG6_OUT_A Pin=J4_A-12
+Removed Pin From Net: NetName=SEG6_OUT_B Pin=J4_B-12
+Added Pin To Net: NetName=SEG6_IN_A Pin=J4_A-12
+Added Pin To Net: NetName=SEG6_IN_B Pin=J4_B-12
+Change Net Name : Old Net Name=SEG1_IN_A New Net Name=SEG1IN_A
+Change Net Name : Old Net Name=SEG1_IN_B New Net Name=SEG1IN_B
+Change Net Name : Old Net Name=SEG1_OUT_A New Net Name=A_A
+Change Net Name : Old Net Name=SEG1_OUT_B New Net Name=A_B

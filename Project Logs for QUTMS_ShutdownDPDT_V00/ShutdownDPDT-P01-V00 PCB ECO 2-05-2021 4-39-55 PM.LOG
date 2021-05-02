@@ -1,0 +1,94 @@
+Change Component Designator: OldDesignator=J3_Group11 NewDesignator=J3_A1
+Change Component Designator: OldDesignator=J3_Group12 NewDesignator=J3_A2
+Change Component Designator: OldDesignator=J3_Group21 NewDesignator=J3_B1
+Change Component Designator: OldDesignator=J3_Group22 NewDesignator=J3_B2
+Change Net Name : Old Net Name=DET_IN_1_Group11 New Net Name=DET_IN_1_A1
+Change Net Name : Old Net Name=DET_IN_1_Group12 New Net Name=DET_IN_1_A2
+Change Net Name : Old Net Name=DET_IN_1_Group21 New Net Name=DET_IN_1_B1
+Change Net Name : Old Net Name=DET_IN_1_Group22 New Net Name=DET_IN_1_B2
+Change Net Name : Old Net Name=DET_OUT_1_Group11 New Net Name=DET_OUT_1_A1
+Change Net Name : Old Net Name=DET_OUT_1_Group12 New Net Name=DET_OUT_1_A2
+Change Net Name : Old Net Name=DET_OUT_1_Group21 New Net Name=DET_OUT_1_B1
+Change Net Name : Old Net Name=DET_OUT_1_Group22 New Net Name=DET_OUT_1_B2
+Change Net Name : Old Net Name=SHDN_IN_1_Group11 New Net Name=SHDN_IN_1_A1
+Change Net Name : Old Net Name=SHDN_IN_1_Group12 New Net Name=SHDN_IN_1_A2
+Change Net Name : Old Net Name=SHDN_IN_1_Group21 New Net Name=SHDN_IN_1_B1
+Change Net Name : Old Net Name=SHDN_IN_1_Group22 New Net Name=SHDN_IN_1_B2
+Change Net Name : Old Net Name=SHDN_IN_2_Group11 New Net Name=SHDN_IN_2_A1
+Change Net Name : Old Net Name=SHDN_IN_2_Group12 New Net Name=SHDN_IN_2_A2
+Change Net Name : Old Net Name=SHDN_IN_2_Group21 New Net Name=SHDN_IN_2_B1
+Change Net Name : Old Net Name=SHDN_IN_2_Group22 New Net Name=SHDN_IN_2_B2
+Change Net Name : Old Net Name=SHDN_IN_3_Group11 New Net Name=SHDN_IN_3_A1
+Change Net Name : Old Net Name=SHDN_IN_3_Group12 New Net Name=SHDN_IN_3_A2
+Change Net Name : Old Net Name=SHDN_IN_3_Group21 New Net Name=SHDN_IN_3_B1
+Change Net Name : Old Net Name=SHDN_IN_3_Group22 New Net Name=SHDN_IN_3_B2
+Change Net Name : Old Net Name=SHDN_OUT_1_Group11 New Net Name=SHDN_OUT_1_A1
+Change Net Name : Old Net Name=SHDN_OUT_1_Group12 New Net Name=SHDN_OUT_1_A2
+Change Net Name : Old Net Name=SHDN_OUT_1_Group21 New Net Name=SHDN_OUT_1_B1
+Change Net Name : Old Net Name=SHDN_OUT_1_Group22 New Net Name=SHDN_OUT_1_B2
+Change Net Name : Old Net Name=SHDN_OUT_2_Group11 New Net Name=SHDN_OUT_2_A1
+Change Net Name : Old Net Name=SHDN_OUT_2_Group12 New Net Name=SHDN_OUT_2_A2
+Change Net Name : Old Net Name=SHDN_OUT_2_Group21 New Net Name=SHDN_OUT_2_B1
+Change Net Name : Old Net Name=SHDN_OUT_2_Group22 New Net Name=SHDN_OUT_2_B2
+Change Net Name : Old Net Name=SHDN_OUT_3_Group11 New Net Name=SHDN_OUT_3_A1
+Change Net Name : Old Net Name=SHDN_OUT_3_Group12 New Net Name=SHDN_OUT_3_A2
+Change Net Name : Old Net Name=SHDN_OUT_3_Group21 New Net Name=SHDN_OUT_3_B1
+Change Net Name : Old Net Name=SHDN_OUT_3_Group22 New Net Name=SHDN_OUT_3_B2
+Added Pin To Net: NetName=DET_IN_2_A1 Pin=J3_A1-9
+Added Pin To Net: NetName=DET_IN_2_A1 Pin=K1_DPDT_Relay_21-4
+Added Net: Name=DET_IN_2_A1
+Added Pin To Net: NetName=DET_IN_2_A2 Pin=J3_A2-9
+Added Pin To Net: NetName=DET_IN_2_A2 Pin=K1_DPDT_Relay_23-4
+Added Net: Name=DET_IN_2_A2
+Added Pin To Net: NetName=DET_IN_2_B1 Pin=J3_B1-9
+Added Pin To Net: NetName=DET_IN_2_B1 Pin=K1_DPDT_Relay_22-4
+Added Net: Name=DET_IN_2_B1
+Added Pin To Net: NetName=DET_IN_2_B2 Pin=J3_B2-9
+Added Pin To Net: NetName=DET_IN_2_B2 Pin=K1_DPDT_Relay_24-4
+Added Net: Name=DET_IN_2_B2
+Added Pin To Net: NetName=DET_IN_3_A1 Pin=J3_A1-11
+Added Pin To Net: NetName=DET_IN_3_A1 Pin=K1_DPDT_Relay_31-4
+Added Net: Name=DET_IN_3_A1
+Added Pin To Net: NetName=DET_IN_3_A2 Pin=J3_A2-11
+Added Pin To Net: NetName=DET_IN_3_A2 Pin=K1_DPDT_Relay_33-4
+Added Net: Name=DET_IN_3_A2
+Added Pin To Net: NetName=DET_IN_3_B1 Pin=J3_B1-11
+Added Pin To Net: NetName=DET_IN_3_B1 Pin=K1_DPDT_Relay_32-4
+Added Net: Name=DET_IN_3_B1
+Added Pin To Net: NetName=DET_IN_3_B2 Pin=J3_B2-11
+Added Pin To Net: NetName=DET_IN_3_B2 Pin=K1_DPDT_Relay_34-4
+Added Net: Name=DET_IN_3_B2
+Added Pin To Net: NetName=DET_OUT_2_A1 Pin=J3_A1-10
+Added Pin To Net: NetName=DET_OUT_2_A1 Pin=K1_DPDT_Relay_21-8
+Added Net: Name=DET_OUT_2_A1
+Added Pin To Net: NetName=DET_OUT_2_A2 Pin=J3_A2-10
+Added Pin To Net: NetName=DET_OUT_2_A2 Pin=K1_DPDT_Relay_23-8
+Added Net: Name=DET_OUT_2_A2
+Added Pin To Net: NetName=DET_OUT_2_B1 Pin=J3_B1-10
+Added Pin To Net: NetName=DET_OUT_2_B1 Pin=K1_DPDT_Relay_22-8
+Added Net: Name=DET_OUT_2_B1
+Added Pin To Net: NetName=DET_OUT_2_B2 Pin=J3_B2-10
+Added Pin To Net: NetName=DET_OUT_2_B2 Pin=K1_DPDT_Relay_24-8
+Added Net: Name=DET_OUT_2_B2
+Added Pin To Net: NetName=DET_OUT_3_A1 Pin=J3_A1-12
+Added Pin To Net: NetName=DET_OUT_3_A1 Pin=K1_DPDT_Relay_31-8
+Added Net: Name=DET_OUT_3_A1
+Added Pin To Net: NetName=DET_OUT_3_A2 Pin=J3_A2-12
+Added Pin To Net: NetName=DET_OUT_3_A2 Pin=K1_DPDT_Relay_33-8
+Added Net: Name=DET_OUT_3_A2
+Added Pin To Net: NetName=DET_OUT_3_B1 Pin=J3_B1-12
+Added Pin To Net: NetName=DET_OUT_3_B1 Pin=K1_DPDT_Relay_32-8
+Added Net: Name=DET_OUT_3_B1
+Added Pin To Net: NetName=DET_OUT_3_B2 Pin=J3_B2-12
+Added Pin To Net: NetName=DET_OUT_3_B2 Pin=K1_DPDT_Relay_34-8
+Added Net: Name=DET_OUT_3_B2
+Change Class Name : Old Net Name=Group11 New Net Name=A1
+Change Class Name : Old Net Name=Group12 New Net Name=A2
+Change Class Name : Old Net Name=Group21 New Net Name=B1
+Change Class Name : Old Net Name=Group22 New Net Name=B2
+Change Room Name: Old Name=Group11 New Name=A2
+Change Room Scope: Old Scope=InComponentClass('Group11') New Scope=InComponentClass('A2')
+Change Room Name: Old Name=Group22 New Name=A1
+Change Room Scope: Old Scope=InComponentClass('Group22') New Scope=InComponentClass('A1')
+Added Room: Name=B1
+Added Room: Name=B2
