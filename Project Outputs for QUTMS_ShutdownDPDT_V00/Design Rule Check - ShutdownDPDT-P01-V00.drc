@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Repos\QUTMS_ShutdownDPDT\ShutdownDPDT-P01-V00.PcbDoc
 Date     : 3/05/2021
-Time     : 4:13:18 PM
+Time     : 5:37:30 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -283,6 +283,10 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.253mm < 0.254mm) Between Text "DS1E" (419.2mm,241.2mm) on Top Overlay And Track (421.012mm,242.473mm)(421.012mm,246.973mm) on Top Overlay Silk Text to Silk Clearance [0.253mm]
    Violation between Silk To Silk Clearance Constraint: (0.246mm < 0.254mm) Between Text "DS1E" (419.2mm,241.2mm) on Top Overlay And Track (421.012mm,242.473mm)(446.212mm,242.473mm) on Top Overlay Silk Text to Silk Clearance [0.246mm]
    Violation between Silk To Silk Clearance Constraint: (0.246mm < 0.254mm) Between Text "DS1F" (431.7mm,241.2mm) on Top Overlay And Track (421.012mm,242.473mm)(446.212mm,242.473mm) on Top Overlay Silk Text to Silk Clearance [0.246mm]
+   Violation between Silk To Silk Clearance Constraint: (0.236mm < 0.254mm) Between Text "Power
+Stat" (500.6mm,225.1mm) on Top Overlay And Track (500.938mm,226.554mm)(500.938mm,227.824mm) on Top Overlay Silk Text to Silk Clearance [0.236mm]
+   Violation between Silk To Silk Clearance Constraint: (0.243mm < 0.254mm) Between Text "Power
+Stat" (500.6mm,225.1mm) on Top Overlay And Track (500.938mm,227.824mm)(502.462mm,227.824mm) on Top Overlay Silk Text to Silk Clearance [0.243mm]
    Violation between Silk To Silk Clearance Constraint: (0.237mm < 0.254mm) Between Text "R1A" (403.6mm,241.2mm) on Top Overlay And Track (403.076mm,240.762mm)(404.346mm,240.762mm) on Top Overlay Silk Text to Silk Clearance [0.237mm]
    Violation between Silk To Silk Clearance Constraint: (0.237mm < 0.254mm) Between Text "R1A" (403.6mm,241.2mm) on Top Overlay And Track (404.854mm,240.762mm)(406.124mm,240.762mm) on Top Overlay Silk Text to Silk Clearance [0.237mm]
    Violation between Silk To Silk Clearance Constraint: (0.146mm < 0.254mm) Between Text "R1B" (378.4mm,241.3mm) on Top Overlay And Track (376.375mm,242.473mm)(401.575mm,242.473mm) on Top Overlay Silk Text to Silk Clearance [0.146mm]
@@ -365,7 +369,9 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.173mm < 0.254mm) Between Text "R2O" (476.334mm,214.9mm) on Top Overlay And Track (465.95mm,214.5mm)(491.15mm,214.5mm) on Top Overlay Silk Text to Silk Clearance [0.173mm]
    Violation between Silk To Silk Clearance Constraint: (0.237mm < 0.254mm) Between Text "R2O" (476.334mm,214.9mm) on Top Overlay And Track (475.876mm,216.138mm)(477.146mm,216.138mm) on Top Overlay Silk Text to Silk Clearance [0.237mm]
    Violation between Silk To Silk Clearance Constraint: (0.237mm < 0.254mm) Between Text "R2O" (476.334mm,214.9mm) on Top Overlay And Track (477.654mm,216.138mm)(478.924mm,216.138mm) on Top Overlay Silk Text to Silk Clearance [0.237mm]
-Rule Violations :106
+   Violation between Silk To Silk Clearance Constraint: (0.176mm < 0.254mm) Between Text "Segment
+LED" (499.7mm,231.369mm) on Top Overlay And Track (500.003mm,233.363mm)(500.003mm,238.697mm) on Top Overlay Silk Text to Silk Clearance [0.176mm]
+Rule Violations :109
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -443,6 +449,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 328
+Violations Detected : 331
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

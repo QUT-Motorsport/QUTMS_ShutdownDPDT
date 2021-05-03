@@ -1,0 +1,247 @@
+Removed Pin From Net: NetName=DET_IN_1D Pin=K1-4
+Removed Pin From Net: NetName=DET_OUT_1D Pin=K1-8
+Removed Pin From Net: NetName=SHDN_IN_1D Pin=K1-9
+Removed Pin From Net: NetName=SHDN_OUT_1D Pin=K1-13
+Removed Pin From Net: NetName=DET_IN_2D Pin=K2-4
+Removed Pin From Net: NetName=DET_OUT_2D Pin=K2-8
+Removed Pin From Net: NetName=SHDN_IN_2D Pin=K2-9
+Removed Pin From Net: NetName=SHDN_OUT_2D Pin=K2-13
+Removed Pin From Net: NetName=DET_IN_3D Pin=K3-4
+Removed Pin From Net: NetName=DET_OUT_3D Pin=K3-8
+Removed Pin From Net: NetName=SHDN_IN_3D Pin=K3-9
+Removed Pin From Net: NetName=SHDN_OUT_3D Pin=K3-13
+Removed Pin From Net: NetName=DET_IN_1C Pin=K4-4
+Removed Pin From Net: NetName=DET_OUT_1C Pin=K4-8
+Removed Pin From Net: NetName=SHDN_IN_1C Pin=K4-9
+Removed Pin From Net: NetName=SHDN_OUT_1C Pin=K4-13
+Removed Pin From Net: NetName=DET_IN_2C Pin=K5-4
+Removed Pin From Net: NetName=DET_OUT_2C Pin=K5-8
+Removed Pin From Net: NetName=SHDN_IN_2C Pin=K5-9
+Removed Pin From Net: NetName=SHDN_OUT_2C Pin=K5-13
+Removed Pin From Net: NetName=DET_IN_3C Pin=K6-4
+Removed Pin From Net: NetName=DET_OUT_3C Pin=K6-8
+Removed Pin From Net: NetName=SHDN_IN_3C Pin=K6-9
+Removed Pin From Net: NetName=SHDN_OUT_3C Pin=K6-13
+Removed Pin From Net: NetName=DET_IN_1A Pin=K7-4
+Removed Pin From Net: NetName=DET_OUT_1A Pin=K7-8
+Removed Pin From Net: NetName=SHDN_IN_1A Pin=K7-9
+Removed Pin From Net: NetName=SHDN_OUT_1A Pin=K7-13
+Removed Pin From Net: NetName=DET_IN_2A Pin=K8-4
+Removed Pin From Net: NetName=DET_OUT_2A Pin=K8-8
+Removed Pin From Net: NetName=SHDN_IN_2A Pin=K8-9
+Removed Pin From Net: NetName=SHDN_OUT_2A Pin=K8-13
+Removed Pin From Net: NetName=DET_IN_3A Pin=K9-4
+Removed Pin From Net: NetName=DET_OUT_3A Pin=K9-8
+Removed Pin From Net: NetName=SHDN_IN_3A Pin=K9-9
+Removed Pin From Net: NetName=SHDN_OUT_3A Pin=K9-13
+Removed Pin From Net: NetName=DET_IN_1B Pin=K10-4
+Removed Pin From Net: NetName=DET_OUT_1B Pin=K10-8
+Removed Pin From Net: NetName=SHDN_IN_1B Pin=K10-9
+Removed Pin From Net: NetName=SHDN_OUT_1B Pin=K10-13
+Removed Pin From Net: NetName=DET_IN_2B Pin=K11-4
+Removed Pin From Net: NetName=DET_OUT_2B Pin=K11-8
+Removed Pin From Net: NetName=SHDN_IN_2B Pin=K11-9
+Removed Pin From Net: NetName=SHDN_OUT_2B Pin=K11-13
+Removed Pin From Net: NetName=DET_IN_3B Pin=K12-4
+Removed Pin From Net: NetName=DET_OUT_3B Pin=K12-8
+Removed Pin From Net: NetName=SHDN_IN_3B Pin=K12-9
+Removed Pin From Net: NetName=SHDN_OUT_3B Pin=K12-13
+Removed Pin From Net: NetName=DET_IN_1E Pin=K13-4
+Removed Pin From Net: NetName=DET_OUT_1E Pin=K13-8
+Removed Pin From Net: NetName=SHDN_IN_1E Pin=K13-9
+Removed Pin From Net: NetName=SHDN_OUT_1E Pin=K13-13
+Removed Pin From Net: NetName=DET_IN_2E Pin=K14-4
+Removed Pin From Net: NetName=DET_OUT_2E Pin=K14-8
+Removed Pin From Net: NetName=SHDN_IN_2E Pin=K14-9
+Removed Pin From Net: NetName=SHDN_OUT_2E Pin=K14-13
+Removed Pin From Net: NetName=DET_IN_3E Pin=K15-4
+Removed Pin From Net: NetName=DET_OUT_3E Pin=K15-8
+Removed Pin From Net: NetName=SHDN_IN_3E Pin=K15-9
+Removed Pin From Net: NetName=SHDN_OUT_3E Pin=K15-13
+Removed Pin From Net: NetName=DET_OUT_1D Pin=R1-2
+Removed Pin From Net: NetName=DET_OUT_2D Pin=R3-2
+Removed Pin From Net: NetName=DET_OUT_3D Pin=R5-2
+Removed Pin From Net: NetName=DET_OUT_1C Pin=R7-2
+Removed Pin From Net: NetName=DET_OUT_2C Pin=R9-2
+Removed Pin From Net: NetName=DET_OUT_3C Pin=R11-2
+Removed Pin From Net: NetName=DET_OUT_1A Pin=R13-2
+Removed Pin From Net: NetName=DET_OUT_2A Pin=R15-2
+Removed Pin From Net: NetName=DET_OUT_3A Pin=R17-2
+Removed Pin From Net: NetName=DET_OUT_1B Pin=R19-2
+Removed Pin From Net: NetName=DET_OUT_2B Pin=R21-2
+Removed Pin From Net: NetName=DET_OUT_3B Pin=R23-2
+Removed Pin From Net: NetName=DET_OUT_1E Pin=R25-2
+Removed Pin From Net: NetName=DET_OUT_2E Pin=R27-2
+Removed Pin From Net: NetName=DET_OUT_3E Pin=R29-2
+Removed Member From Class: ClassName=DPDT_Relay_24 Member=DS31
+Removed Member From Class: ClassName=B2 Member=J3
+Removed Member From Class: ClassName=B Member=J11
+Removed Member From Class: ClassName=DPDT_Relay_24 Member=R31
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS1K
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS2K
+Change Component Designator: OldDesignator=DS3 NewDesignator=DS1L
+Change Component Designator: OldDesignator=DS4 NewDesignator=DS2L
+Change Component Designator: OldDesignator=DS5 NewDesignator=DS1J
+Change Component Designator: OldDesignator=DS6 NewDesignator=DS2J
+Change Component Designator: OldDesignator=DS7 NewDesignator=DS1H
+Change Component Designator: OldDesignator=DS8 NewDesignator=DS2H
+Change Component Designator: OldDesignator=DS9 NewDesignator=DS1I
+Change Component Designator: OldDesignator=DS10 NewDesignator=DS2I
+Change Component Designator: OldDesignator=DS11 NewDesignator=DS1G
+Change Component Designator: OldDesignator=DS12 NewDesignator=DS2G
+Change Component Designator: OldDesignator=DS13 NewDesignator=DS1B
+Change Component Designator: OldDesignator=DS14 NewDesignator=DS2B
+Change Component Designator: OldDesignator=DS15 NewDesignator=DS1C
+Change Component Designator: OldDesignator=DS16 NewDesignator=DS2C
+Change Component Designator: OldDesignator=DS17 NewDesignator=DS1A
+Change Component Designator: OldDesignator=DS18 NewDesignator=DS2A
+Change Component Designator: OldDesignator=DS19 NewDesignator=DS1E
+Change Component Designator: OldDesignator=DS20 NewDesignator=DS2E
+Change Component Designator: OldDesignator=DS21 NewDesignator=DS1F
+Change Component Designator: OldDesignator=DS22 NewDesignator=DS2F
+Change Component Designator: OldDesignator=DS23 NewDesignator=DS1D
+Change Component Designator: OldDesignator=DS24 NewDesignator=DS2D
+Change Component Designator: OldDesignator=DS25 NewDesignator=DS1N
+Change Component Designator: OldDesignator=DS26 NewDesignator=DS2N
+Change Component Designator: OldDesignator=DS27 NewDesignator=DS1O
+Change Component Designator: OldDesignator=DS28 NewDesignator=DS2O
+Change Component Designator: OldDesignator=DS29 NewDesignator=DS1M
+Change Component Designator: OldDesignator=DS30 NewDesignator=DS2M
+Change Component Designator: OldDesignator=DS31 NewDesignator=DS3
+Change Component Designator: OldDesignator=J1 NewDesignator=J4B
+Change Component Designator: OldDesignator=J2 NewDesignator=J3D
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3C
+Change Component Designator: OldDesignator=J5 NewDesignator=J1
+Change Component Designator: OldDesignator=J6 NewDesignator=J3A
+Change Component Designator: OldDesignator=J7 NewDesignator=J4A
+Change Component Designator: OldDesignator=J8 NewDesignator=J3B
+Change Component Designator: OldDesignator=J9 NewDesignator=J6
+Change Component Designator: OldDesignator=J10 NewDesignator=J3E
+Change Component Designator: OldDesignator=J11 NewDesignator=J5
+Change Component Designator: OldDesignator=K1 NewDesignator=K1K
+Change Component Designator: OldDesignator=K2 NewDesignator=K1L
+Change Component Designator: OldDesignator=K3 NewDesignator=K1J
+Change Component Designator: OldDesignator=K4 NewDesignator=K1H
+Change Component Designator: OldDesignator=K5 NewDesignator=K1I
+Change Component Designator: OldDesignator=K6 NewDesignator=K1G
+Change Component Designator: OldDesignator=K7 NewDesignator=K1B
+Change Component Designator: OldDesignator=K8 NewDesignator=K1C
+Change Component Designator: OldDesignator=K9 NewDesignator=K1A
+Change Component Designator: OldDesignator=K10 NewDesignator=K1E
+Change Component Designator: OldDesignator=K11 NewDesignator=K1F
+Change Component Designator: OldDesignator=K12 NewDesignator=K1D
+Change Component Designator: OldDesignator=K13 NewDesignator=K1N
+Change Component Designator: OldDesignator=K14 NewDesignator=K1O
+Change Component Designator: OldDesignator=K15 NewDesignator=K1M
+Change Component Designator: OldDesignator=R1 NewDesignator=R2K
+Change Component Designator: OldDesignator=R2 NewDesignator=R1K
+Change Component Designator: OldDesignator=R3 NewDesignator=R2L
+Change Component Designator: OldDesignator=R4 NewDesignator=R1L
+Change Component Designator: OldDesignator=R5 NewDesignator=R2J
+Change Component Designator: OldDesignator=R6 NewDesignator=R1J
+Change Component Designator: OldDesignator=R7 NewDesignator=R2H
+Change Component Designator: OldDesignator=R8 NewDesignator=R1H
+Change Component Designator: OldDesignator=R9 NewDesignator=R2I
+Change Component Designator: OldDesignator=R10 NewDesignator=R1I
+Change Component Designator: OldDesignator=R11 NewDesignator=R2G
+Change Component Designator: OldDesignator=R12 NewDesignator=R1G
+Change Component Designator: OldDesignator=R13 NewDesignator=R2B
+Change Component Designator: OldDesignator=R14 NewDesignator=R1B
+Change Component Designator: OldDesignator=R15 NewDesignator=R2C
+Change Component Designator: OldDesignator=R16 NewDesignator=R1C
+Change Component Designator: OldDesignator=R17 NewDesignator=R2A
+Change Component Designator: OldDesignator=R18 NewDesignator=R1A
+Change Component Designator: OldDesignator=R19 NewDesignator=R2E
+Change Component Designator: OldDesignator=R20 NewDesignator=R1E
+Change Component Designator: OldDesignator=R21 NewDesignator=R2F
+Change Component Designator: OldDesignator=R22 NewDesignator=R1F
+Change Component Designator: OldDesignator=R23 NewDesignator=R2D
+Change Component Designator: OldDesignator=R24 NewDesignator=R1D
+Change Component Designator: OldDesignator=R25 NewDesignator=R2N
+Change Component Designator: OldDesignator=R26 NewDesignator=R1N
+Change Component Designator: OldDesignator=R27 NewDesignator=R2O
+Change Component Designator: OldDesignator=R28 NewDesignator=R1O
+Change Component Designator: OldDesignator=R29 NewDesignator=R2M
+Change Component Designator: OldDesignator=R30 NewDesignator=R1M
+Change Component Designator: OldDesignator=R31 NewDesignator=R3
+Added Pin To Net: NetName=SHDN_OUT_3A Pin=K1A-4
+Added Pin To Net: NetName=SHDN_IN_3A Pin=K1A-8
+Added Pin To Net: NetName=DET_OUT_3A Pin=K1A-9
+Added Pin To Net: NetName=DET_IN_3A Pin=K1A-13
+Added Pin To Net: NetName=SHDN_OUT_1A Pin=K1B-4
+Added Pin To Net: NetName=SHDN_IN_1A Pin=K1B-8
+Added Pin To Net: NetName=DET_OUT_1A Pin=K1B-9
+Added Pin To Net: NetName=DET_IN_1A Pin=K1B-13
+Added Pin To Net: NetName=SHDN_OUT_2A Pin=K1C-4
+Added Pin To Net: NetName=SHDN_IN_2A Pin=K1C-8
+Added Pin To Net: NetName=DET_OUT_2A Pin=K1C-9
+Added Pin To Net: NetName=DET_IN_2A Pin=K1C-13
+Added Pin To Net: NetName=SHDN_OUT_3B Pin=K1D-4
+Added Pin To Net: NetName=SHDN_IN_3B Pin=K1D-8
+Added Pin To Net: NetName=DET_OUT_3B Pin=K1D-9
+Added Pin To Net: NetName=DET_IN_3B Pin=K1D-13
+Added Pin To Net: NetName=SHDN_OUT_1B Pin=K1E-4
+Added Pin To Net: NetName=SHDN_IN_1B Pin=K1E-8
+Added Pin To Net: NetName=DET_OUT_1B Pin=K1E-9
+Added Pin To Net: NetName=DET_IN_1B Pin=K1E-13
+Added Pin To Net: NetName=SHDN_OUT_2B Pin=K1F-4
+Added Pin To Net: NetName=SHDN_IN_2B Pin=K1F-8
+Added Pin To Net: NetName=DET_OUT_2B Pin=K1F-9
+Added Pin To Net: NetName=DET_IN_2B Pin=K1F-13
+Added Pin To Net: NetName=SHDN_OUT_3C Pin=K1G-4
+Added Pin To Net: NetName=SHDN_IN_3C Pin=K1G-8
+Added Pin To Net: NetName=DET_OUT_3C Pin=K1G-9
+Added Pin To Net: NetName=DET_IN_3C Pin=K1G-13
+Added Pin To Net: NetName=SHDN_OUT_1C Pin=K1H-4
+Added Pin To Net: NetName=SHDN_IN_1C Pin=K1H-8
+Added Pin To Net: NetName=DET_OUT_1C Pin=K1H-9
+Added Pin To Net: NetName=DET_IN_1C Pin=K1H-13
+Added Pin To Net: NetName=SHDN_OUT_2C Pin=K1I-4
+Added Pin To Net: NetName=SHDN_IN_2C Pin=K1I-8
+Added Pin To Net: NetName=DET_OUT_2C Pin=K1I-9
+Added Pin To Net: NetName=DET_IN_2C Pin=K1I-13
+Added Pin To Net: NetName=SHDN_OUT_3D Pin=K1J-4
+Added Pin To Net: NetName=SHDN_IN_3D Pin=K1J-8
+Added Pin To Net: NetName=DET_OUT_3D Pin=K1J-9
+Added Pin To Net: NetName=DET_IN_3D Pin=K1J-13
+Added Pin To Net: NetName=SHDN_OUT_1D Pin=K1K-4
+Added Pin To Net: NetName=SHDN_IN_1D Pin=K1K-8
+Added Pin To Net: NetName=DET_OUT_1D Pin=K1K-9
+Added Pin To Net: NetName=DET_IN_1D Pin=K1K-13
+Added Pin To Net: NetName=SHDN_OUT_2D Pin=K1L-4
+Added Pin To Net: NetName=SHDN_IN_2D Pin=K1L-8
+Added Pin To Net: NetName=DET_OUT_2D Pin=K1L-9
+Added Pin To Net: NetName=DET_IN_2D Pin=K1L-13
+Added Pin To Net: NetName=SHDN_OUT_3E Pin=K1M-4
+Added Pin To Net: NetName=SHDN_IN_3E Pin=K1M-8
+Added Pin To Net: NetName=DET_OUT_3E Pin=K1M-9
+Added Pin To Net: NetName=DET_IN_3E Pin=K1M-13
+Added Pin To Net: NetName=SHDN_OUT_1E Pin=K1N-4
+Added Pin To Net: NetName=SHDN_IN_1E Pin=K1N-8
+Added Pin To Net: NetName=DET_OUT_1E Pin=K1N-9
+Added Pin To Net: NetName=DET_IN_1E Pin=K1N-13
+Added Pin To Net: NetName=SHDN_OUT_2E Pin=K1O-4
+Added Pin To Net: NetName=SHDN_IN_2E Pin=K1O-8
+Added Pin To Net: NetName=DET_OUT_2E Pin=K1O-9
+Added Pin To Net: NetName=DET_IN_2E Pin=K1O-13
+Added Pin To Net: NetName=SHDN_IN_3A Pin=R2A-2
+Added Pin To Net: NetName=SHDN_IN_1A Pin=R2B-2
+Added Pin To Net: NetName=SHDN_IN_2A Pin=R2C-2
+Added Pin To Net: NetName=SHDN_IN_3B Pin=R2D-2
+Added Pin To Net: NetName=SHDN_IN_1B Pin=R2E-2
+Added Pin To Net: NetName=SHDN_IN_2B Pin=R2F-2
+Added Pin To Net: NetName=SHDN_IN_3C Pin=R2G-2
+Added Pin To Net: NetName=SHDN_IN_1C Pin=R2H-2
+Added Pin To Net: NetName=SHDN_IN_2C Pin=R2I-2
+Added Pin To Net: NetName=SHDN_IN_3D Pin=R2J-2
+Added Pin To Net: NetName=SHDN_IN_1D Pin=R2K-2
+Added Pin To Net: NetName=SHDN_IN_2D Pin=R2L-2
+Added Pin To Net: NetName=SHDN_IN_3E Pin=R2M-2
+Added Pin To Net: NetName=SHDN_IN_1E Pin=R2N-2
+Added Pin To Net: NetName=SHDN_IN_2E Pin=R2O-2
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component DS1L (DS1) LED Red 0603
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J1 MX120G
+Added Member To Class: ClassName=B2 Member=Component J3D (J3) MX120G
+Added Member To Class: ClassName=B Member=Component J4B (J4) MX120G
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component R2L (R2) 1k 5% 0603

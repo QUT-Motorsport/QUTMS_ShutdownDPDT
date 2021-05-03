@@ -1,0 +1,372 @@
+Removed Pin From Net: NetName=SHDN_IN_1D Pin=J2-1
+Removed Pin From Net: NetName=SHDN_OUT_1D Pin=J2-2
+Removed Pin From Net: NetName=SHDN_IN_3D Pin=J2-5
+Removed Pin From Net: NetName=SHDN_OUT_3D Pin=J2-6
+Removed Pin From Net: NetName=DET_IN_1D Pin=J2-7
+Removed Pin From Net: NetName=DET_OUT_1D Pin=J2-8
+Removed Pin From Net: NetName=DET_IN_3D Pin=J2-11
+Removed Pin From Net: NetName=DET_OUT_3D Pin=J2-12
+Removed Pin From Net: NetName=SHDN_IN_1C Pin=J4-1
+Removed Pin From Net: NetName=SHDN_OUT_1C Pin=J4-2
+Removed Pin From Net: NetName=SHDN_IN_3C Pin=J4-5
+Removed Pin From Net: NetName=SHDN_OUT_3C Pin=J4-6
+Removed Pin From Net: NetName=DET_IN_1C Pin=J4-7
+Removed Pin From Net: NetName=DET_OUT_1C Pin=J4-8
+Removed Pin From Net: NetName=DET_IN_3C Pin=J4-11
+Removed Pin From Net: NetName=DET_OUT_3C Pin=J4-12
+Removed Pin From Net: NetName=SHDN_IN_1A Pin=J6-1
+Removed Pin From Net: NetName=SHDN_OUT_1A Pin=J6-2
+Removed Pin From Net: NetName=SHDN_IN_3A Pin=J6-5
+Removed Pin From Net: NetName=SHDN_OUT_3A Pin=J6-6
+Removed Pin From Net: NetName=DET_IN_1A Pin=J6-7
+Removed Pin From Net: NetName=DET_OUT_1A Pin=J6-8
+Removed Pin From Net: NetName=DET_IN_3A Pin=J6-11
+Removed Pin From Net: NetName=DET_OUT_3A Pin=J6-12
+Removed Pin From Net: NetName=SHDN_IN_1B Pin=J8-1
+Removed Pin From Net: NetName=SHDN_OUT_1B Pin=J8-2
+Removed Pin From Net: NetName=SHDN_IN_3B Pin=J8-5
+Removed Pin From Net: NetName=SHDN_OUT_3B Pin=J8-6
+Removed Pin From Net: NetName=DET_IN_1B Pin=J8-7
+Removed Pin From Net: NetName=DET_OUT_1B Pin=J8-8
+Removed Pin From Net: NetName=DET_IN_3B Pin=J8-11
+Removed Pin From Net: NetName=DET_OUT_3B Pin=J8-12
+Removed Pin From Net: NetName=SHDN_IN_1E Pin=J10-1
+Removed Pin From Net: NetName=SHDN_OUT_1E Pin=J10-2
+Removed Pin From Net: NetName=SHDN_IN_3E Pin=J10-5
+Removed Pin From Net: NetName=SHDN_OUT_3E Pin=J10-6
+Removed Pin From Net: NetName=DET_IN_1E Pin=J10-7
+Removed Pin From Net: NetName=DET_OUT_1E Pin=J10-8
+Removed Pin From Net: NetName=DET_IN_3E Pin=J10-11
+Removed Pin From Net: NetName=DET_OUT_3E Pin=J10-12
+Removed Pin From Net: NetName=DET_IN_1D Pin=K1-4
+Removed Pin From Net: NetName=DET_OUT_1D Pin=K1-8
+Removed Pin From Net: NetName=SHDN_IN_1D Pin=K1-9
+Removed Pin From Net: NetName=SHDN_OUT_1D Pin=K1-13
+Removed Pin From Net: NetName=DET_IN_3D Pin=K3-4
+Removed Pin From Net: NetName=DET_OUT_3D Pin=K3-8
+Removed Pin From Net: NetName=SHDN_IN_3D Pin=K3-9
+Removed Pin From Net: NetName=SHDN_OUT_3D Pin=K3-13
+Removed Pin From Net: NetName=DET_IN_1C Pin=K4-4
+Removed Pin From Net: NetName=DET_OUT_1C Pin=K4-8
+Removed Pin From Net: NetName=SHDN_IN_1C Pin=K4-9
+Removed Pin From Net: NetName=SHDN_OUT_1C Pin=K4-13
+Removed Pin From Net: NetName=DET_IN_3C Pin=K6-4
+Removed Pin From Net: NetName=DET_OUT_3C Pin=K6-8
+Removed Pin From Net: NetName=SHDN_IN_3C Pin=K6-9
+Removed Pin From Net: NetName=SHDN_OUT_3C Pin=K6-13
+Removed Pin From Net: NetName=DET_IN_1A Pin=K7-4
+Removed Pin From Net: NetName=DET_OUT_1A Pin=K7-8
+Removed Pin From Net: NetName=SHDN_IN_1A Pin=K7-9
+Removed Pin From Net: NetName=SHDN_OUT_1A Pin=K7-13
+Removed Pin From Net: NetName=DET_IN_3A Pin=K9-4
+Removed Pin From Net: NetName=DET_OUT_3A Pin=K9-8
+Removed Pin From Net: NetName=SHDN_IN_3A Pin=K9-9
+Removed Pin From Net: NetName=SHDN_OUT_3A Pin=K9-13
+Removed Pin From Net: NetName=DET_IN_1B Pin=K10-4
+Removed Pin From Net: NetName=DET_OUT_1B Pin=K10-8
+Removed Pin From Net: NetName=SHDN_IN_1B Pin=K10-9
+Removed Pin From Net: NetName=SHDN_OUT_1B Pin=K10-13
+Removed Pin From Net: NetName=DET_IN_3B Pin=K12-4
+Removed Pin From Net: NetName=DET_OUT_3B Pin=K12-8
+Removed Pin From Net: NetName=SHDN_IN_3B Pin=K12-9
+Removed Pin From Net: NetName=SHDN_OUT_3B Pin=K12-13
+Removed Pin From Net: NetName=DET_IN_1E Pin=K13-4
+Removed Pin From Net: NetName=DET_OUT_1E Pin=K13-8
+Removed Pin From Net: NetName=SHDN_IN_1E Pin=K13-9
+Removed Pin From Net: NetName=SHDN_OUT_1E Pin=K13-13
+Removed Pin From Net: NetName=DET_IN_3E Pin=K15-4
+Removed Pin From Net: NetName=DET_OUT_3E Pin=K15-8
+Removed Pin From Net: NetName=SHDN_IN_3E Pin=K15-9
+Removed Pin From Net: NetName=SHDN_OUT_3E Pin=K15-13
+Removed Pin From Net: NetName=DET_OUT_1D Pin=R1-2
+Removed Pin From Net: NetName=DET_OUT_3D Pin=R5-2
+Removed Pin From Net: NetName=DET_OUT_1C Pin=R7-2
+Removed Pin From Net: NetName=DET_OUT_3C Pin=R11-2
+Removed Pin From Net: NetName=DET_OUT_1A Pin=R13-2
+Removed Pin From Net: NetName=DET_OUT_3A Pin=R17-2
+Removed Pin From Net: NetName=DET_OUT_1B Pin=R19-2
+Removed Pin From Net: NetName=DET_OUT_3B Pin=R23-2
+Removed Pin From Net: NetName=DET_OUT_1E Pin=R25-2
+Removed Pin From Net: NetName=DET_OUT_3E Pin=R29-2
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS1K
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS2K
+Change Component Designator: OldDesignator=DS3 NewDesignator=DS1L
+Change Component Designator: OldDesignator=DS4 NewDesignator=DS2L
+Change Component Designator: OldDesignator=DS5 NewDesignator=DS1J
+Change Component Designator: OldDesignator=DS6 NewDesignator=DS2J
+Change Component Designator: OldDesignator=DS7 NewDesignator=DS1H
+Change Component Designator: OldDesignator=DS8 NewDesignator=DS2H
+Change Component Designator: OldDesignator=DS9 NewDesignator=DS1I
+Change Component Designator: OldDesignator=DS10 NewDesignator=DS2I
+Change Component Designator: OldDesignator=DS11 NewDesignator=DS1G
+Change Component Designator: OldDesignator=DS12 NewDesignator=DS2G
+Change Component Designator: OldDesignator=DS13 NewDesignator=DS1B
+Change Component Designator: OldDesignator=DS14 NewDesignator=DS2B
+Change Component Designator: OldDesignator=DS15 NewDesignator=DS1C
+Change Component Designator: OldDesignator=DS16 NewDesignator=DS2C
+Change Component Designator: OldDesignator=DS17 NewDesignator=DS1A
+Change Component Designator: OldDesignator=DS18 NewDesignator=DS2A
+Change Component Designator: OldDesignator=DS19 NewDesignator=DS1E
+Change Component Designator: OldDesignator=DS20 NewDesignator=DS2E
+Change Component Designator: OldDesignator=DS21 NewDesignator=DS1F
+Change Component Designator: OldDesignator=DS22 NewDesignator=DS2F
+Change Component Designator: OldDesignator=DS23 NewDesignator=DS1D
+Change Component Designator: OldDesignator=DS24 NewDesignator=DS2D
+Change Component Designator: OldDesignator=DS25 NewDesignator=DS1N
+Change Component Designator: OldDesignator=DS26 NewDesignator=DS2N
+Change Component Designator: OldDesignator=DS27 NewDesignator=DS1O
+Change Component Designator: OldDesignator=DS28 NewDesignator=DS2O
+Change Component Designator: OldDesignator=DS29 NewDesignator=DS1M
+Change Component Designator: OldDesignator=DS30 NewDesignator=DS2M
+Change Component Designator: OldDesignator=DS31 NewDesignator=DS3
+Change Component Designator: OldDesignator=J1 NewDesignator=J4B
+Change Component Designator: OldDesignator=J2 NewDesignator=J3D
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3C
+Change Component Designator: OldDesignator=J5 NewDesignator=J1
+Change Component Designator: OldDesignator=J6 NewDesignator=J3A
+Change Component Designator: OldDesignator=J7 NewDesignator=J4A
+Change Component Designator: OldDesignator=J8 NewDesignator=J3B
+Change Component Designator: OldDesignator=J9 NewDesignator=J6
+Change Component Designator: OldDesignator=J10 NewDesignator=J3E
+Change Component Designator: OldDesignator=J11 NewDesignator=J5
+Change Component Designator: OldDesignator=K1 NewDesignator=K1K
+Change Component Designator: OldDesignator=K2 NewDesignator=K1L
+Change Component Designator: OldDesignator=K3 NewDesignator=K1J
+Change Component Designator: OldDesignator=K4 NewDesignator=K1H
+Change Component Designator: OldDesignator=K5 NewDesignator=K1I
+Change Component Designator: OldDesignator=K6 NewDesignator=K1G
+Change Component Designator: OldDesignator=K7 NewDesignator=K1B
+Change Component Designator: OldDesignator=K8 NewDesignator=K1C
+Change Component Designator: OldDesignator=K9 NewDesignator=K1A
+Change Component Designator: OldDesignator=K10 NewDesignator=K1E
+Change Component Designator: OldDesignator=K11 NewDesignator=K1F
+Change Component Designator: OldDesignator=K12 NewDesignator=K1D
+Change Component Designator: OldDesignator=K13 NewDesignator=K1N
+Change Component Designator: OldDesignator=K14 NewDesignator=K1O
+Change Component Designator: OldDesignator=K15 NewDesignator=K1M
+Change Component Designator: OldDesignator=R1 NewDesignator=R2K
+Change Component Designator: OldDesignator=R2 NewDesignator=R1K
+Change Component Designator: OldDesignator=R3 NewDesignator=R2L
+Change Component Designator: OldDesignator=R4 NewDesignator=R1L
+Change Component Designator: OldDesignator=R5 NewDesignator=R2J
+Change Component Designator: OldDesignator=R6 NewDesignator=R1J
+Change Component Designator: OldDesignator=R7 NewDesignator=R2H
+Change Component Designator: OldDesignator=R8 NewDesignator=R1H
+Change Component Designator: OldDesignator=R9 NewDesignator=R2I
+Change Component Designator: OldDesignator=R10 NewDesignator=R1I
+Change Component Designator: OldDesignator=R11 NewDesignator=R2G
+Change Component Designator: OldDesignator=R12 NewDesignator=R1G
+Change Component Designator: OldDesignator=R13 NewDesignator=R2B
+Change Component Designator: OldDesignator=R14 NewDesignator=R1B
+Change Component Designator: OldDesignator=R15 NewDesignator=R2C
+Change Component Designator: OldDesignator=R16 NewDesignator=R1C
+Change Component Designator: OldDesignator=R17 NewDesignator=R2A
+Change Component Designator: OldDesignator=R18 NewDesignator=R1A
+Change Component Designator: OldDesignator=R19 NewDesignator=R2E
+Change Component Designator: OldDesignator=R20 NewDesignator=R1E
+Change Component Designator: OldDesignator=R21 NewDesignator=R2F
+Change Component Designator: OldDesignator=R22 NewDesignator=R1F
+Change Component Designator: OldDesignator=R23 NewDesignator=R2D
+Change Component Designator: OldDesignator=R24 NewDesignator=R1D
+Change Component Designator: OldDesignator=R25 NewDesignator=R2N
+Change Component Designator: OldDesignator=R26 NewDesignator=R1N
+Change Component Designator: OldDesignator=R27 NewDesignator=R2O
+Change Component Designator: OldDesignator=R28 NewDesignator=R1O
+Change Component Designator: OldDesignator=R29 NewDesignator=R2M
+Change Component Designator: OldDesignator=R30 NewDesignator=R1M
+Change Component Designator: OldDesignator=R31 NewDesignator=R3
+Added Pin To Net: NetName=DET_OUT_3A Pin=J3A-1
+Added Pin To Net: NetName=DET_IN_3A Pin=J3A-2
+Added Pin To Net: NetName=DET_OUT_1A Pin=J3A-5
+Added Pin To Net: NetName=DET_IN_1A Pin=J3A-6
+Added Pin To Net: NetName=SHDN_OUT_3A Pin=J3A-7
+Added Pin To Net: NetName=SHDN_IN_3A Pin=J3A-8
+Added Pin To Net: NetName=SHDN_OUT_1A Pin=J3A-11
+Added Pin To Net: NetName=SHDN_IN_1A Pin=J3A-12
+Added Pin To Net: NetName=DET_OUT_3B Pin=J3B-1
+Added Pin To Net: NetName=DET_IN_3B Pin=J3B-2
+Added Pin To Net: NetName=DET_OUT_1B Pin=J3B-5
+Added Pin To Net: NetName=DET_IN_1B Pin=J3B-6
+Added Pin To Net: NetName=SHDN_OUT_3B Pin=J3B-7
+Added Pin To Net: NetName=SHDN_IN_3B Pin=J3B-8
+Added Pin To Net: NetName=SHDN_OUT_1B Pin=J3B-11
+Added Pin To Net: NetName=SHDN_IN_1B Pin=J3B-12
+Added Pin To Net: NetName=DET_OUT_3C Pin=J3C-1
+Added Pin To Net: NetName=DET_IN_3C Pin=J3C-2
+Added Pin To Net: NetName=DET_OUT_1C Pin=J3C-5
+Added Pin To Net: NetName=DET_IN_1C Pin=J3C-6
+Added Pin To Net: NetName=SHDN_OUT_3C Pin=J3C-7
+Added Pin To Net: NetName=SHDN_IN_3C Pin=J3C-8
+Added Pin To Net: NetName=SHDN_OUT_1C Pin=J3C-11
+Added Pin To Net: NetName=SHDN_IN_1C Pin=J3C-12
+Added Pin To Net: NetName=DET_OUT_3D Pin=J3D-1
+Added Pin To Net: NetName=DET_IN_3D Pin=J3D-2
+Added Pin To Net: NetName=DET_OUT_1D Pin=J3D-5
+Added Pin To Net: NetName=DET_IN_1D Pin=J3D-6
+Added Pin To Net: NetName=SHDN_OUT_3D Pin=J3D-7
+Added Pin To Net: NetName=SHDN_IN_3D Pin=J3D-8
+Added Pin To Net: NetName=SHDN_OUT_1D Pin=J3D-11
+Added Pin To Net: NetName=SHDN_IN_1D Pin=J3D-12
+Added Pin To Net: NetName=DET_OUT_3E Pin=J3E-1
+Added Pin To Net: NetName=DET_IN_3E Pin=J3E-2
+Added Pin To Net: NetName=DET_OUT_1E Pin=J3E-5
+Added Pin To Net: NetName=DET_IN_1E Pin=J3E-6
+Added Pin To Net: NetName=SHDN_OUT_3E Pin=J3E-7
+Added Pin To Net: NetName=SHDN_IN_3E Pin=J3E-8
+Added Pin To Net: NetName=SHDN_OUT_1E Pin=J3E-11
+Added Pin To Net: NetName=SHDN_IN_1E Pin=J3E-12
+Added Pin To Net: NetName=SHDN_OUT_3A Pin=K1A-4
+Added Pin To Net: NetName=SHDN_IN_3A Pin=K1A-8
+Added Pin To Net: NetName=DET_OUT_3A Pin=K1A-9
+Added Pin To Net: NetName=DET_IN_3A Pin=K1A-13
+Added Pin To Net: NetName=SHDN_OUT_1A Pin=K1B-4
+Added Pin To Net: NetName=SHDN_IN_1A Pin=K1B-8
+Added Pin To Net: NetName=DET_OUT_1A Pin=K1B-9
+Added Pin To Net: NetName=DET_IN_1A Pin=K1B-13
+Added Pin To Net: NetName=SHDN_OUT_3B Pin=K1D-4
+Added Pin To Net: NetName=SHDN_IN_3B Pin=K1D-8
+Added Pin To Net: NetName=DET_OUT_3B Pin=K1D-9
+Added Pin To Net: NetName=DET_IN_3B Pin=K1D-13
+Added Pin To Net: NetName=SHDN_OUT_1B Pin=K1E-4
+Added Pin To Net: NetName=SHDN_IN_1B Pin=K1E-8
+Added Pin To Net: NetName=DET_OUT_1B Pin=K1E-9
+Added Pin To Net: NetName=DET_IN_1B Pin=K1E-13
+Added Pin To Net: NetName=SHDN_OUT_3C Pin=K1G-4
+Added Pin To Net: NetName=SHDN_IN_3C Pin=K1G-8
+Added Pin To Net: NetName=DET_OUT_3C Pin=K1G-9
+Added Pin To Net: NetName=DET_IN_3C Pin=K1G-13
+Added Pin To Net: NetName=SHDN_OUT_1C Pin=K1H-4
+Added Pin To Net: NetName=SHDN_IN_1C Pin=K1H-8
+Added Pin To Net: NetName=DET_OUT_1C Pin=K1H-9
+Added Pin To Net: NetName=DET_IN_1C Pin=K1H-13
+Added Pin To Net: NetName=SHDN_OUT_3D Pin=K1J-4
+Added Pin To Net: NetName=SHDN_IN_3D Pin=K1J-8
+Added Pin To Net: NetName=DET_OUT_3D Pin=K1J-9
+Added Pin To Net: NetName=DET_IN_3D Pin=K1J-13
+Added Pin To Net: NetName=SHDN_OUT_1D Pin=K1K-4
+Added Pin To Net: NetName=SHDN_IN_1D Pin=K1K-8
+Added Pin To Net: NetName=DET_OUT_1D Pin=K1K-9
+Added Pin To Net: NetName=DET_IN_1D Pin=K1K-13
+Added Pin To Net: NetName=SHDN_OUT_3E Pin=K1M-4
+Added Pin To Net: NetName=SHDN_IN_3E Pin=K1M-8
+Added Pin To Net: NetName=DET_OUT_3E Pin=K1M-9
+Added Pin To Net: NetName=DET_IN_3E Pin=K1M-13
+Added Pin To Net: NetName=SHDN_OUT_1E Pin=K1N-4
+Added Pin To Net: NetName=SHDN_IN_1E Pin=K1N-8
+Added Pin To Net: NetName=DET_OUT_1E Pin=K1N-9
+Added Pin To Net: NetName=DET_IN_1E Pin=K1N-13
+Added Pin To Net: NetName=SHDN_IN_3A Pin=R2A-2
+Added Pin To Net: NetName=SHDN_IN_1A Pin=R2B-2
+Added Pin To Net: NetName=SHDN_IN_3B Pin=R2D-2
+Added Pin To Net: NetName=SHDN_IN_1B Pin=R2E-2
+Added Pin To Net: NetName=SHDN_IN_3C Pin=R2G-2
+Added Pin To Net: NetName=SHDN_IN_1C Pin=R2H-2
+Added Pin To Net: NetName=SHDN_IN_3D Pin=R2J-2
+Added Pin To Net: NetName=SHDN_IN_1D Pin=R2K-2
+Added Pin To Net: NetName=SHDN_IN_3E Pin=R2M-2
+Added Pin To Net: NetName=SHDN_IN_1E Pin=R2N-2
+Change Net Name : Old Net Name=DET_IN_2A New Net Name=SHDN_OUT_2A
+Change Net Name : Old Net Name=DET_IN_2B New Net Name=SHDN_OUT_2B
+Change Net Name : Old Net Name=DET_IN_2C New Net Name=SHDN_OUT_2C
+Change Net Name : Old Net Name=DET_IN_2D New Net Name=SHDN_OUT_2D
+Change Net Name : Old Net Name=DET_IN_2E New Net Name=SHDN_OUT_2E
+Change Net Name : Old Net Name=DET_OUT_2A New Net Name=SHDN_IN_2A
+Change Net Name : Old Net Name=DET_OUT_2B New Net Name=SHDN_IN_2B
+Change Net Name : Old Net Name=DET_OUT_2C New Net Name=SHDN_IN_2C
+Change Net Name : Old Net Name=DET_OUT_2D New Net Name=SHDN_IN_2D
+Change Net Name : Old Net Name=DET_OUT_2E New Net Name=SHDN_IN_2E
+Change Net Name : Old Net Name=SHDN_IN_2A New Net Name=DET_OUT_2A
+Change Net Name : Old Net Name=SHDN_IN_2B New Net Name=DET_OUT_2B
+Change Net Name : Old Net Name=SHDN_IN_2C New Net Name=DET_OUT_2C
+Change Net Name : Old Net Name=SHDN_IN_2D New Net Name=DET_OUT_2D
+Change Net Name : Old Net Name=SHDN_IN_2E New Net Name=DET_OUT_2E
+Change Net Name : Old Net Name=SHDN_OUT_2A New Net Name=DET_IN_2A
+Change Net Name : Old Net Name=SHDN_OUT_2B New Net Name=DET_IN_2B
+Change Net Name : Old Net Name=SHDN_OUT_2C New Net Name=DET_IN_2C
+Change Net Name : Old Net Name=SHDN_OUT_2D New Net Name=DET_IN_2D
+Change Net Name : Old Net Name=SHDN_OUT_2E New Net Name=DET_IN_2E
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component DS1A (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component DS1B (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component DS1C (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_13 Member=Component DS1D (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_14 Member=Component DS1E (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_22 Member=Component DS1F (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_15 Member=Component DS1G (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_16 Member=Component DS1H (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_23 Member=Component DS1I (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_17 Member=Component DS1J (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_18 Member=Component DS1K (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component DS1L (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component DS1M (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component DS1N (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component DS1O (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component DS2A (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component DS2B (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component DS2C (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_13 Member=Component DS2D (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_14 Member=Component DS2E (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_22 Member=Component DS2F (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_15 Member=Component DS2G (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_16 Member=Component DS2H (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_23 Member=Component DS2I (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_17 Member=Component DS2J (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_18 Member=Component DS2K (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component DS2L (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component DS2M (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component DS2N (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component DS2O (DS2) LED Red 0603
+Added Member To Class: ClassName=A1 Member=Component J3A (J3) MX120G
+Added Member To Class: ClassName=B1 Member=Component J3B (J3) MX120G
+Added Member To Class: ClassName=A2 Member=Component J3C (J3) MX120G
+Added Member To Class: ClassName=B2 Member=Component J3D (J3) MX120G
+Added Member To Class: ClassName=C Member=Component J3E (J3) MX120G
+Added Member To Class: ClassName=A Member=Component J4A (J4) MX120G
+Added Member To Class: ClassName=B Member=Component J4B (J4) MX120G
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J5 Jumper 2Way Pins
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J6 MX120G
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component K1A (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component K1B (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component K1C (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_13 Member=Component K1D (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_14 Member=Component K1E (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_22 Member=Component K1F (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_15 Member=Component K1G (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_16 Member=Component K1H (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_23 Member=Component K1I (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_17 Member=Component K1J (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_18 Member=Component K1K (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component K1L (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component K1M (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component K1N (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component K1O (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component R1A (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component R1B (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component R1C (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_13 Member=Component R1D (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_14 Member=Component R1E (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_22 Member=Component R1F (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_15 Member=Component R1G (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_16 Member=Component R1H (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_23 Member=Component R1I (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_17 Member=Component R1J (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_18 Member=Component R1K (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component R1L (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component R1M (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component R1N (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component R1O (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component R2A (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component R2B (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component R2C (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_13 Member=Component R2D (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_14 Member=Component R2E (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_22 Member=Component R2F (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_15 Member=Component R2G (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_16 Member=Component R2H (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_23 Member=Component R2I (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_17 Member=Component R2J (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_18 Member=Component R2K (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_24 Member=Component R2L (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component R2M (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component R2N (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component R2O (R2) 1k 5% 0603
