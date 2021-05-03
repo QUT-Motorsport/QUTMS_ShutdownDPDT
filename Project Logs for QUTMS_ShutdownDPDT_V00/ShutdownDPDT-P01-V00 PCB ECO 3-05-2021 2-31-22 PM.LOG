@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SEG3_INA Pin=J4A-8
+Removed Pin From Net: NetName=SEG1_INA Pin=J4A-12
+Removed Pin From Net: NetName=SEG3_INB Pin=J4B-8
+Removed Pin From Net: NetName=SEG1_INB Pin=J4B-12
+Removed Member From Class: ClassName=ShutdownDPDT-S01-V00 Member=DS1L
+Removed Member From Class: ClassName=ShutdownDPDT-S01-V00 Member=J4B
+Added Pin To Net: NetName=NetDS3_1 Pin=DS3-1
+Added Pin To Net: NetName=SEG1_INA Pin=J4A-8
+Added Pin To Net: NetName=SEG3_INA Pin=J4A-12
+Added Pin To Net: NetName=SEG1_INB Pin=J4B-8
+Added Pin To Net: NetName=SEG3_INB Pin=J4B-12
+Added Pin To Net: NetName=NetDS3_1 Pin=R3-1
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component DS3 LED Green 0603
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J2 MX120G
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J5 Jumper 2Way Pins
