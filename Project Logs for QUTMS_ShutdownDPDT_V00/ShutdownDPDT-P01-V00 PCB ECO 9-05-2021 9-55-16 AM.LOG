@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=12V Pin=J4A-1
+Removed Pin From Net: NetName=SEG6_INA Pin=J4A-2
+Removed Pin From Net: NetName=12V Pin=J4A-3
+Removed Pin From Net: NetName=SEG5_INA Pin=J4A-4
+Removed Pin From Net: NetName=12V Pin=J4A-5
+Removed Pin From Net: NetName=SEG4_INA Pin=J4A-6
+Removed Pin From Net: NetName=12V Pin=J4B-1
+Removed Pin From Net: NetName=SEG6_INB Pin=J4B-2
+Removed Pin From Net: NetName=12V Pin=J4B-3
+Removed Pin From Net: NetName=SEG5_INB Pin=J4B-4
+Removed Pin From Net: NetName=12V Pin=J4B-5
+Removed Pin From Net: NetName=SEG4_INB Pin=J4B-6
+Removed Pin From Net: NetName=12V Pin=J6-1
+Removed Pin From Net: NetName=SEG3_IN Pin=J6-2
+Removed Pin From Net: NetName=12V Pin=J6-3
+Removed Pin From Net: NetName=SEG2_IN Pin=J6-4
+Removed Pin From Net: NetName=12V Pin=J6-5
+Removed Pin From Net: NetName=SEG1_IN Pin=J6-6
+Added Component: Designator=J7A(MX120G)
+Added Component: Designator=J7B(MX120G)
+Added Pin To Net: NetName=SEG1_IN Pin=J6-7
+Added Pin To Net: NetName=12V Pin=J6-8
+Added Pin To Net: NetName=SEG2_IN Pin=J6-9
+Added Pin To Net: NetName=12V Pin=J6-10
+Added Pin To Net: NetName=SEG3_IN Pin=J6-11
+Added Pin To Net: NetName=12V Pin=J6-12
+Added Pin To Net: NetName=12V Pin=J7A-7
+Added Pin To Net: NetName=SEG6_INA Pin=J7A-8
+Added Pin To Net: NetName=12V Pin=J7A-9
+Added Pin To Net: NetName=SEG5_INA Pin=J7A-10
+Added Pin To Net: NetName=12V Pin=J7A-11
+Added Pin To Net: NetName=SEG4_INA Pin=J7A-12
+Added Pin To Net: NetName=12V Pin=J7B-7
+Added Pin To Net: NetName=SEG6_INB Pin=J7B-8
+Added Pin To Net: NetName=12V Pin=J7B-9
+Added Pin To Net: NetName=SEG5_INB Pin=J7B-10
+Added Pin To Net: NetName=12V Pin=J7B-11
+Added Pin To Net: NetName=SEG4_INB Pin=J7B-12
+Added Member To Class: ClassName=A Member=Component J7A (J7) MX120G
+Added Member To Class: ClassName=B Member=Component J7B (J7) MX120G
