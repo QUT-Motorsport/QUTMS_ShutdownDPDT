@@ -1,0 +1,6 @@
+Added Component: Designator=J4(JST PH 2x RIGHT COMB)
+Added Pin To Net: NetName=12V Pin=J4-1
+Added Pin To Net: NetName=12V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J4 JST PH 2x RIGHT COMB

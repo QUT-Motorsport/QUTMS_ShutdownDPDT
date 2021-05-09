@@ -1,0 +1,14 @@
+Added Component: Designator=FID1(FIDUCIAL 1MM)
+Added Component: Designator=FID2(FIDUCIAL 1MM)
+Added Component: Designator=LOGO1(QUTMS LOGO 10MM)
+Added Component: Designator=M1(M3.2 PLATED)
+Added Component: Designator=M2(M3.2 PLATED)
+Added Component: Designator=M3(M3.2 PLATED)
+Added Component: Designator=M4(M3.2 PLATED)
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component FID1 Fiducial 1MM
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component FID2 Fiducial 1MM
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component LOGO1 10mm Wide QUTMS Logo
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component M1 Hole M3 Tight Plated
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component M2 Hole M3 Tight Plated
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component M3 Hole M3 Tight Plated
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component M4 Hole M3 Tight Plated

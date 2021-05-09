@@ -1,0 +1,58 @@
+Added Component: Designator=J1(JST PH 2x RIGHT COMB)
+Added Component: Designator=K1A(FP-G5V-2-DC12-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "41.7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "288R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "10.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operate Time"; Value = "7ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Action"; Value = "MOMENTARY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Function"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "3ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.1mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=K1A-1
+Added Pin To Net: NetName=SHDN_OUT_3 Pin=K1A-4
+Added Pin To Net: NetName=SHDN_IN_3 Pin=K1A-8
+Added Pin To Net: NetName=DET_OUT_3 Pin=K1A-9
+Added Pin To Net: NetName=DET_IN_3 Pin=K1A-13
+Added Pin To Net: NetName=NetJ2_7 Pin=K1A-16
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component DS3 LED Green 0603
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J1 JST PH 2x RIGHT COMB
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J5 Jumper 2Way Pins
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component K1A (K1) G5V-2-DC12
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component R3 10k 1% 0603
