@@ -737,24 +737,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NGFPDPMH
 
 [Document42]
-DocumentPath=ShutdownDPDT-S05-V00-SegmentGroup.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KNYWZAFB
-
-[Document43]
-DocumentPath=ShutdownDPDT-P01-V00.PcbDoc
+DocumentPath=ShutdownDPDT-P01-V01.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -776,6 +759,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=ShutdownDPDT-P01-V00 3-05-2021 4-14-20 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ShutdownDPDT-P01-V01 9-05-2021 5-40-07 PM.WAS
 DItemRevisionGUID=
 
 [Configuration1]

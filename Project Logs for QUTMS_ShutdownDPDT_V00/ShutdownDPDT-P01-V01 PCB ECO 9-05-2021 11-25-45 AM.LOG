@@ -1,0 +1,326 @@
+Removed Pin From Net: NetName=LED GND Pin=DS1A-2
+Removed Pin From Net: NetName=LED GND Pin=DS1B-2
+Removed Pin From Net: NetName=LED GND Pin=DS1C-2
+Removed Pin From Net: NetName=LED GND Pin=DS2A-2
+Removed Pin From Net: NetName=LED GND Pin=DS2B-2
+Removed Pin From Net: NetName=LED GND Pin=DS2C-2
+Removed Pin From Net: NetName=12V Pin=J4A-7
+Removed Pin From Net: NetName=12V Pin=J4A-9
+Removed Pin From Net: NetName=12V Pin=J4A-11
+Removed Pin From Net: NetName=12V Pin=J4B-7
+Removed Pin From Net: NetName=12V Pin=J4B-9
+Removed Pin From Net: NetName=12V Pin=J4B-11
+Removed Pin From Net: NetName=12V Pin=J7A-7
+Removed Pin From Net: NetName=12V Pin=J7A-9
+Removed Pin From Net: NetName=12V Pin=J7A-11
+Removed Pin From Net: NetName=12V Pin=J7B-7
+Removed Pin From Net: NetName=12V Pin=J7B-9
+Removed Pin From Net: NetName=12V Pin=J7B-11
+Removed Pin From Net: NetName=GND Pin=K1A-1
+Removed Pin From Net: NetName=GND Pin=K1B-1
+Removed Pin From Net: NetName=GND Pin=K1C-1
+Change Component Designator: OldDesignator=DS1M NewDesignator=DS1A
+Change Component Designator: OldDesignator=DS1N NewDesignator=DS1B
+Change Component Designator: OldDesignator=DS1O NewDesignator=DS1C
+Change Component Designator: OldDesignator=DS2M NewDesignator=DS2A
+Change Component Designator: OldDesignator=DS2N NewDesignator=DS2B
+Change Component Designator: OldDesignator=DS2O NewDesignator=DS2C
+Change Component Designator: OldDesignator=J3E NewDesignator=J3A
+Change Component Designator: OldDesignator=K1M NewDesignator=K1A
+Change Component Designator: OldDesignator=K1N NewDesignator=K1B
+Change Component Designator: OldDesignator=K1O NewDesignator=K1C
+Change Component Designator: OldDesignator=R1M NewDesignator=R1A
+Change Component Designator: OldDesignator=R1N NewDesignator=R1B
+Change Component Designator: OldDesignator=R1O NewDesignator=R1C
+Change Component Designator: OldDesignator=R2M NewDesignator=R2A
+Change Component Designator: OldDesignator=R2N NewDesignator=R2B
+Change Component Designator: OldDesignator=R2O NewDesignator=R2C
+Added Component: Designator=DS1M(LED RED 0603)
+Added Component: Designator=DS1N(LED RED 0603)
+Added Component: Designator=DS1O(LED RED 0603)
+Added Component: Designator=DS2M(LED RED 0603)
+Added Component: Designator=DS2N(LED RED 0603)
+Added Component: Designator=DS2O(LED RED 0603)
+Added Component: Designator=J3E(MX120G)
+Added Component: Designator=J8(MX120G)
+Added Component: Designator=J9(MX120G)
+Added Component: Designator=J10(MX120G)
+Added Component: Designator=J11(MX120G)
+Added Component: Designator=K1M(FP-G5V-2-DC12-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "41.7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "288R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "10.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operate Time"; Value = "7ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Action"; Value = "MOMENTARY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Function"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "3ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.1mm"; VariantName = "[No Variations]"
+Added Component: Designator=K1N(FP-G5V-2-DC12-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "41.7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "288R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "10.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operate Time"; Value = "7ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Action"; Value = "MOMENTARY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Function"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "3ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.1mm"; VariantName = "[No Variations]"
+Added Component: Designator=K1O(FP-G5V-2-DC12-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "41.7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "288R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "10.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operate Time"; Value = "7ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Action"; Value = "MOMENTARY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Function"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "3ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "G5V-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.1mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1M(Res_ThinFilm_0603)
+Added Component: Designator=R1N(Res_ThinFilm_0603)
+Added Component: Designator=R1O(Res_ThinFilm_0603)
+Added Component: Designator=R2M(Res_ThinFilm_0603)
+Added Component: Designator=R2N(Res_ThinFilm_0603)
+Added Component: Designator=R2O(Res_ThinFilm_0603)
+Added Pin To Net: NetName=LED GND Pin=DS1M-2
+Added Pin To Net: NetName=LED GND Pin=DS1N-2
+Added Pin To Net: NetName=LED GND Pin=DS1O-2
+Added Pin To Net: NetName=LED GND Pin=DS2M-2
+Added Pin To Net: NetName=LED GND Pin=DS2N-2
+Added Pin To Net: NetName=LED GND Pin=DS2O-2
+Added Pin To Net: NetName=SEG3_IN Pin=J8-7
+Added Pin To Net: NetName=12V Pin=J8-8
+Added Pin To Net: NetName=SEG2_IN Pin=J8-9
+Added Pin To Net: NetName=12V Pin=J8-10
+Added Pin To Net: NetName=SEG1_IN Pin=J8-11
+Added Pin To Net: NetName=12V Pin=J8-12
+Added Pin To Net: NetName=SEG3_IN Pin=J9-7
+Added Pin To Net: NetName=12V Pin=J9-8
+Added Pin To Net: NetName=SEG2_IN Pin=J9-9
+Added Pin To Net: NetName=12V Pin=J9-10
+Added Pin To Net: NetName=SEG1_IN Pin=J9-11
+Added Pin To Net: NetName=12V Pin=J9-12
+Added Pin To Net: NetName=SEG3_IN Pin=J10-7
+Added Pin To Net: NetName=12V Pin=J10-8
+Added Pin To Net: NetName=SEG2_IN Pin=J10-9
+Added Pin To Net: NetName=12V Pin=J10-10
+Added Pin To Net: NetName=SEG1_IN Pin=J10-11
+Added Pin To Net: NetName=12V Pin=J10-12
+Added Pin To Net: NetName=SEG3_IN Pin=J11-7
+Added Pin To Net: NetName=12V Pin=J11-8
+Added Pin To Net: NetName=SEG2_IN Pin=J11-9
+Added Pin To Net: NetName=12V Pin=J11-10
+Added Pin To Net: NetName=SEG1_IN Pin=J11-11
+Added Pin To Net: NetName=12V Pin=J11-12
+Added Pin To Net: NetName=SEG3_IN Pin=K1D-16
+Added Pin To Net: NetName=SEG1_IN Pin=K1E-16
+Added Pin To Net: NetName=SEG2_IN Pin=K1F-16
+Added Pin To Net: NetName=SEG3_IN Pin=K1G-16
+Added Pin To Net: NetName=SEG1_IN Pin=K1H-16
+Added Pin To Net: NetName=SEG2_IN Pin=K1I-16
+Added Pin To Net: NetName=SEG3_IN Pin=K1J-16
+Added Pin To Net: NetName=SEG1_IN Pin=K1K-16
+Added Pin To Net: NetName=SEG2_IN Pin=K1L-16
+Added Pin To Net: NetName=GND Pin=K1M-1
+Added Pin To Net: NetName=SEG3_IN Pin=K1M-16
+Added Pin To Net: NetName=GND Pin=K1N-1
+Added Pin To Net: NetName=SEG1_IN Pin=K1N-16
+Added Pin To Net: NetName=GND Pin=K1O-1
+Added Pin To Net: NetName=SEG2_IN Pin=K1O-16
+Added Pin To Net: NetName=SEG3_IN Pin=R1D-2
+Added Pin To Net: NetName=SEG1_IN Pin=R1E-2
+Added Pin To Net: NetName=SEG2_IN Pin=R1F-2
+Added Pin To Net: NetName=SEG3_IN Pin=R1G-2
+Added Pin To Net: NetName=SEG1_IN Pin=R1H-2
+Added Pin To Net: NetName=SEG2_IN Pin=R1I-2
+Added Pin To Net: NetName=SEG3_IN Pin=R1J-2
+Added Pin To Net: NetName=SEG1_IN Pin=R1K-2
+Added Pin To Net: NetName=SEG2_IN Pin=R1L-2
+Added Pin To Net: NetName=SEG3_IN Pin=R1M-2
+Added Pin To Net: NetName=SEG1_IN Pin=R1N-2
+Added Pin To Net: NetName=SEG2_IN Pin=R1O-2
+Change Net Name : Old Net Name=DET_IN_1E New Net Name=DET_IN_1A
+Change Net Name : Old Net Name=DET_IN_2E New Net Name=DET_IN_2A
+Change Net Name : Old Net Name=DET_IN_3E New Net Name=DET_IN_3A
+Change Net Name : Old Net Name=DET_OUT_1E New Net Name=DET_OUT_1A
+Change Net Name : Old Net Name=DET_OUT_2E New Net Name=DET_OUT_2A
+Change Net Name : Old Net Name=DET_OUT_3E New Net Name=DET_OUT_3A
+Change Net Name : Old Net Name=NetDS1M_1 New Net Name=NetDS1A_1
+Change Net Name : Old Net Name=NetDS1N_1 New Net Name=NetDS1B_1
+Change Net Name : Old Net Name=NetDS1O_1 New Net Name=NetDS1C_1
+Change Net Name : Old Net Name=NetDS2M_1 New Net Name=NetDS2A_1
+Change Net Name : Old Net Name=NetDS2N_1 New Net Name=NetDS2B_1
+Change Net Name : Old Net Name=NetDS2O_1 New Net Name=NetDS2C_1
+Change Net Name : Old Net Name=SHDN_IN_1E New Net Name=SHDN_IN_1A
+Change Net Name : Old Net Name=SHDN_IN_2E New Net Name=SHDN_IN_2A
+Change Net Name : Old Net Name=SHDN_IN_3E New Net Name=SHDN_IN_3A
+Change Net Name : Old Net Name=SHDN_OUT_1E New Net Name=SHDN_OUT_1A
+Change Net Name : Old Net Name=SHDN_OUT_2E New Net Name=SHDN_OUT_2A
+Change Net Name : Old Net Name=SHDN_OUT_3E New Net Name=SHDN_OUT_3A
+Added Pin To Net: NetName=DET_IN_1E Pin=J3E-2
+Added Pin To Net: NetName=DET_IN_1E Pin=K1N-13
+Added Net: Name=DET_IN_1E
+Added Pin To Net: NetName=DET_IN_2E Pin=J3E-4
+Added Pin To Net: NetName=DET_IN_2E Pin=K1O-13
+Added Net: Name=DET_IN_2E
+Added Pin To Net: NetName=DET_IN_3E Pin=J3E-6
+Added Pin To Net: NetName=DET_IN_3E Pin=K1M-13
+Added Net: Name=DET_IN_3E
+Added Pin To Net: NetName=DET_OUT_1E Pin=J3E-1
+Added Pin To Net: NetName=DET_OUT_1E Pin=K1N-9
+Added Net: Name=DET_OUT_1E
+Added Pin To Net: NetName=DET_OUT_2E Pin=J3E-3
+Added Pin To Net: NetName=DET_OUT_2E Pin=K1O-9
+Added Net: Name=DET_OUT_2E
+Added Pin To Net: NetName=DET_OUT_3E Pin=J3E-5
+Added Pin To Net: NetName=DET_OUT_3E Pin=K1M-9
+Added Net: Name=DET_OUT_3E
+Added Pin To Net: NetName=NetDS1M_1 Pin=DS1M-1
+Added Pin To Net: NetName=NetDS1M_1 Pin=R1M-1
+Added Net: Name=NetDS1M_1
+Added Pin To Net: NetName=NetDS1N_1 Pin=DS1N-1
+Added Pin To Net: NetName=NetDS1N_1 Pin=R1N-1
+Added Net: Name=NetDS1N_1
+Added Pin To Net: NetName=NetDS1O_1 Pin=DS1O-1
+Added Pin To Net: NetName=NetDS1O_1 Pin=R1O-1
+Added Net: Name=NetDS1O_1
+Added Pin To Net: NetName=NetDS2M_1 Pin=DS2M-1
+Added Pin To Net: NetName=NetDS2M_1 Pin=R2M-1
+Added Net: Name=NetDS2M_1
+Added Pin To Net: NetName=NetDS2N_1 Pin=DS2N-1
+Added Pin To Net: NetName=NetDS2N_1 Pin=R2N-1
+Added Net: Name=NetDS2N_1
+Added Pin To Net: NetName=NetDS2O_1 Pin=DS2O-1
+Added Pin To Net: NetName=NetDS2O_1 Pin=R2O-1
+Added Net: Name=NetDS2O_1
+Added Pin To Net: NetName=SHDN_IN_1E Pin=J3E-8
+Added Pin To Net: NetName=SHDN_IN_1E Pin=K1N-8
+Added Pin To Net: NetName=SHDN_IN_1E Pin=R2N-2
+Added Net: Name=SHDN_IN_1E
+Added Pin To Net: NetName=SHDN_IN_2E Pin=J3E-10
+Added Pin To Net: NetName=SHDN_IN_2E Pin=K1O-8
+Added Pin To Net: NetName=SHDN_IN_2E Pin=R2O-2
+Added Net: Name=SHDN_IN_2E
+Added Pin To Net: NetName=SHDN_IN_3E Pin=J3E-12
+Added Pin To Net: NetName=SHDN_IN_3E Pin=K1M-8
+Added Pin To Net: NetName=SHDN_IN_3E Pin=R2M-2
+Added Net: Name=SHDN_IN_3E
+Added Pin To Net: NetName=SHDN_OUT_1E Pin=J3E-7
+Added Pin To Net: NetName=SHDN_OUT_1E Pin=K1N-4
+Added Net: Name=SHDN_OUT_1E
+Added Pin To Net: NetName=SHDN_OUT_2E Pin=J3E-9
+Added Pin To Net: NetName=SHDN_OUT_2E Pin=K1O-4
+Added Net: Name=SHDN_OUT_2E
+Added Pin To Net: NetName=SHDN_OUT_3E Pin=J3E-11
+Added Pin To Net: NetName=SHDN_OUT_3E Pin=K1M-4
+Added Net: Name=SHDN_OUT_3E
+Change Class Name : Old Net Name=A1 New Net Name=C1
+Change Class Name : Old Net Name=A2 New Net Name=C3
+Change Class Name : Old Net Name=B1 New Net Name=C2
+Change Class Name : Old Net Name=B2 New Net Name=C4
+Change Class Name : Old Net Name=C New Net Name=C5
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J8 MX120G
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J9 MX120G
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J10 MX120G
+Added Member To Class: ClassName=ShutdownDPDT-S01-V00 Member=Component J11 MX120G
+Added Room: Name=C1
+Added Room: Name=C2
+Added Room: Name=C3
+Added Room: Name=C4
+Added Room: Name=C5

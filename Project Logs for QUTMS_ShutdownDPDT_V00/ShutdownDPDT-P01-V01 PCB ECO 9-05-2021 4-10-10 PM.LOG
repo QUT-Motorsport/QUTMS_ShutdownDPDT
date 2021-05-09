@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=12V Pin=J4A-7
+Removed Pin From Net: NetName=12V Pin=J4A-9
+Removed Pin From Net: NetName=12V Pin=J4A-11
+Removed Pin From Net: NetName=12V Pin=J4B-7
+Removed Pin From Net: NetName=12V Pin=J4B-9
+Removed Pin From Net: NetName=12V Pin=J4B-11
+Removed Pin From Net: NetName=12V Pin=J6-8
+Removed Pin From Net: NetName=12V Pin=J6-10
+Removed Pin From Net: NetName=12V Pin=J6-12
+Removed Pin From Net: NetName=12V Pin=J7A-7
+Removed Pin From Net: NetName=12V Pin=J7A-9
+Removed Pin From Net: NetName=12V Pin=J7A-11
+Removed Pin From Net: NetName=12V Pin=J7B-7
+Removed Pin From Net: NetName=12V Pin=J7B-9
+Removed Pin From Net: NetName=12V Pin=J7B-11
+Removed Member From Class: ClassName=ShutdownDPDT-S01-V00 Member=J6
+Added Component: Designator=J?A(MX120G)
+Added Component: Designator=J?B(MX120G)
+Added Component: Designator=J?C(MX120G)
+Added Component: Designator=J?D(MX120G)
+Added Component: Designator=J?E(MX120G)
+Added Pin To Net: NetName=12V Pin=J?A-8
+Added Pin To Net: NetName=12V Pin=J?A-10
+Added Pin To Net: NetName=12V Pin=J?A-12
+Added Pin To Net: NetName=12V Pin=J?B-8
+Added Pin To Net: NetName=12V Pin=J?B-10
+Added Pin To Net: NetName=12V Pin=J?B-12
+Added Pin To Net: NetName=12V Pin=J?C-8
+Added Pin To Net: NetName=12V Pin=J?C-10
+Added Pin To Net: NetName=12V Pin=J?C-12
+Added Pin To Net: NetName=12V Pin=J?D-8
+Added Pin To Net: NetName=12V Pin=J?D-10
+Added Pin To Net: NetName=12V Pin=J?D-12
+Added Pin To Net: NetName=12V Pin=J?E-8
+Added Pin To Net: NetName=12V Pin=J?E-10
+Added Pin To Net: NetName=12V Pin=J?E-12
+Added Pin To Net: NetName=NetJ?A_7 Pin=J?A-7
+Added Pin To Net: NetName=NetJ?A_7 Pin=K1A-16
+Added Pin To Net: NetName=NetJ?A_7 Pin=R1A-2
+Added Net: Name=NetJ?A_7
+Added Pin To Net: NetName=NetJ?A_9 Pin=J?A-9
+Added Pin To Net: NetName=NetJ?A_9 Pin=K1C-16
+Added Pin To Net: NetName=NetJ?A_9 Pin=R1C-2
+Added Net: Name=NetJ?A_9
+Added Pin To Net: NetName=NetJ?A_11 Pin=J?A-11
+Added Pin To Net: NetName=NetJ?A_11 Pin=K1B-16
+Added Pin To Net: NetName=NetJ?A_11 Pin=R1B-2
+Added Net: Name=NetJ?A_11
+Added Pin To Net: NetName=NetJ?B_7 Pin=J?B-7
+Added Pin To Net: NetName=NetJ?B_7 Pin=K1D-16
+Added Pin To Net: NetName=NetJ?B_7 Pin=R1D-2
+Added Net: Name=NetJ?B_7
+Added Pin To Net: NetName=NetJ?B_9 Pin=J?B-9
+Added Pin To Net: NetName=NetJ?B_9 Pin=K1F-16
+Added Pin To Net: NetName=NetJ?B_9 Pin=R1F-2
+Added Net: Name=NetJ?B_9
+Added Pin To Net: NetName=NetJ?B_11 Pin=J?B-11
+Added Pin To Net: NetName=NetJ?B_11 Pin=K1E-16
+Added Pin To Net: NetName=NetJ?B_11 Pin=R1E-2
+Added Net: Name=NetJ?B_11
+Added Pin To Net: NetName=NetJ?C_7 Pin=J?C-7
+Added Pin To Net: NetName=NetJ?C_7 Pin=K1G-16
+Added Pin To Net: NetName=NetJ?C_7 Pin=R1G-2
+Added Net: Name=NetJ?C_7
+Added Pin To Net: NetName=NetJ?C_9 Pin=J?C-9
+Added Pin To Net: NetName=NetJ?C_9 Pin=K1I-16
+Added Pin To Net: NetName=NetJ?C_9 Pin=R1I-2
+Added Net: Name=NetJ?C_9
+Added Pin To Net: NetName=NetJ?C_11 Pin=J?C-11
+Added Pin To Net: NetName=NetJ?C_11 Pin=K1H-16
+Added Pin To Net: NetName=NetJ?C_11 Pin=R1H-2
+Added Net: Name=NetJ?C_11
+Added Pin To Net: NetName=NetJ?D_7 Pin=J?D-7
+Added Pin To Net: NetName=NetJ?D_7 Pin=K1J-16
+Added Pin To Net: NetName=NetJ?D_7 Pin=R1J-2
+Added Net: Name=NetJ?D_7
+Added Pin To Net: NetName=NetJ?D_9 Pin=J?D-9
+Added Pin To Net: NetName=NetJ?D_9 Pin=K1L-16
+Added Pin To Net: NetName=NetJ?D_9 Pin=R1L-2
+Added Net: Name=NetJ?D_9
+Added Pin To Net: NetName=NetJ?D_11 Pin=J?D-11
+Added Pin To Net: NetName=NetJ?D_11 Pin=K1K-16
+Added Pin To Net: NetName=NetJ?D_11 Pin=R1K-2
+Added Net: Name=NetJ?D_11
+Added Pin To Net: NetName=NetJ?E_7 Pin=J?E-7
+Added Pin To Net: NetName=NetJ?E_7 Pin=K1M-16
+Added Pin To Net: NetName=NetJ?E_7 Pin=R1M-2
+Added Net: Name=NetJ?E_7
+Added Pin To Net: NetName=NetJ?E_9 Pin=J?E-9
+Added Pin To Net: NetName=NetJ?E_9 Pin=K1O-16
+Added Pin To Net: NetName=NetJ?E_9 Pin=R1O-2
+Added Net: Name=NetJ?E_9
+Added Pin To Net: NetName=NetJ?E_11 Pin=J?E-11
+Added Pin To Net: NetName=NetJ?E_11 Pin=K1N-16
+Added Pin To Net: NetName=NetJ?E_11 Pin=R1N-2
+Added Net: Name=NetJ?E_11
+Added Class: Name=RelayGroup1
+Added Class: Name=RelayGroup2
+Added Class: Name=RelayGroup3
+Added Class: Name=RelayGroup4
+Added Class: Name=RelayGroup5
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component DS1A (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component DS1B (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component DS1C (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component DS1M (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component DS1N (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component DS1O (DS1) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component DS2A (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component DS2B (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component DS2C (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component DS2M (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component DS2N (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component DS2O (DS2) LED Red 0603
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component K1A (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component K1B (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component K1C (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component K1M (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component K1N (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component K1O (K1) G5V-2-DC12
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component R1A (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component R1B (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component R1C (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component R1M (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component R1N (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component R1O (R1) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_11 Member=Component R2A (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_12 Member=Component R2B (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_21 Member=Component R2C (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_19 Member=Component R2M (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_110 Member=Component R2N (R2) 1k 5% 0603
+Added Member To Class: ClassName=DPDT_Relay_25 Member=Component R2O (R2) 1k 5% 0603
+Added Room: Name=RelayGroup1
+Added Room: Name=RelayGroup2
+Added Room: Name=RelayGroup3
+Added Room: Name=RelayGroup4
+Added Room: Name=RelayGroup5
