@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUTMS_ShutdownDPDT_V00.PrjPcb]
+   Generated File[ShutdownDPDT-P01-V02.TXT]
+   Generated File[ShutdownDPDT-P01-V02.LDP]
+   Generated File[ShutdownDPDT-P01-V02.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:50:41 AM On 10/05/2021

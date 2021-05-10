@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ShutdownDPDT-P01-V02.PcbDoc   10/05/2021  9:50:41 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ShutdownDPDT-P01-V02.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T2      11mil (0.279mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      57mil (1.45mm)                                            Round             24        PTH        0.00inch (0.00mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      158mil (4.001mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              101
+
+Total Processing Time (hh:mm:ss) : 00:00:00
